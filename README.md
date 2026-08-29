@@ -20,3 +20,7 @@ The supplied source PDF is explicitly marked EDUCATION DRAFT ONLY / NOT FOR PATI
 The app is static HTML/CSS/JavaScript. Upload this folder to any HTTPS static host such as GitHub Pages, Cloudflare Pages, Netlify, or similar. No server database is required.
 
 Once deployed, open the HTTPS site in Safari on the iPhone, tap Share, then Add to Home Screen. Open it once while online so the service worker can cache all app files for offline study.
+
+
+## v1.1 GitHub Pages fix
+Runtime study data is embedded in `app.js`, so the app no longer depends on separate JSON fetches. A `.nojekyll` file is included for static GitHub Pages deployment. Replace all existing repository files with this version, then hard-refresh/reopen the installed app.
