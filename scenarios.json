@@ -1,0 +1,380 @@
+[
+  {
+    "id": "s-2-01",
+    "prompt": "The purpose of advanced airway management is to safely secure a patient's airway while avoiding hypoxia, hypotension, hypoventilation, aspiration or cardiac arrest. During a crisis, a person does not rise to the occasion, but rather falls to the level of their training. Learning a protocol will not build proficiency for intubation. SCEMSA supports focused monthly practice of correct technique in simulation, acquiring feedback, correcting performance, and repetition that will build the muscle memory necessary for the development of expertise. Indication Airway protection or patency Failure of oxygenation or spontaneous ventilation Expected deterioration or in need of advanced airway management. Contraindications Rapid sequence intubation (RSI) is contraindicated in patients less than 2 years old. Avoid SGAs in situations with expected return of airway reflexes (e.g. when treating hypoglyc",
+    "answer": "2.01: Airway Management",
+    "protocolID": "2-01",
+    "sourcePage": 39
+  },
+  {
+    "id": "s-2-04",
+    "prompt": "Conscious patients with severe respiratory distress due to: Congestive heart failure (CHF) with pulmonary edema Near-drowning with pulmonary edema Exacerbation of asthma Exacerbations of Chronic Obstructive Pulmonary Disease (COPD) Carbon monoxide poisoning Relative contraindications Pediatric patients without appropriately-fitting equipment - use with caution. Unconscious or unable to self-maintain airway. Contraindications Respiratory arrest or inadequate respiratory effor Facial trauma or deformities Penetrating chest trauma or pneumothorax Recent GI surgery or bleeding Persistent nausea/emesis SBP< 90mmHg Procedure Initial settings: IPAP of 10 and EPAP of 5 with minimum pressure support (IPAP-EPAP of 5). Patients with increased work of breathing and hypercapnia: increase IPAP. Patients with hypoxia or pulmonary edema should have an increase in EPAP, maintaining a pressure support of ",
+    "answer": "2.04: Airway - AEMT & Above (CPAP/NIV)",
+    "protocolID": "2-04",
+    "sourcePage": 43
+  },
+  {
+    "id": "s-3-01",
+    "prompt": "Typically, patients may present with retrosternal chest discomfort, which may be described as tightness or pressure that may radiate into the epigastrium, jaw, arms, neck, or back. Female and diabetic patients may present atypically. When in doubt, treat as an Acute Coronary Syndrome (ACS). Dissecting aortic aneurysm may mimic an ACS in presentation and in response to treatment. Providers should recognize that there are many types of chest pain, and it may be difficult to distinguish between cardiac chest pain and other forms. Caution should be given and err on the side of cardiac in origin. All EMS Providers Establish Primary Managemen For patients exhibiting signs and symptoms of a cardiac event (e.g. active chest discomfort, SOB, weakness, dizziness, diaphoresis indicative of an ACS), consider an ALS intercept from the neares appropriate entity. Administer Oxygen: Medication Oxygen Ro",
+    "answer": "3.01: Chest Pain",
+    "protocolID": "3-01",
+    "sourcePage": 59
+  },
+  {
+    "id": "s-3-03",
+    "prompt": "Cardiogenic Shock is a broad term that encompasses the pathophysiological end result of a multitude of disease processes. Cardiogenic Shock develops when any structural or functional cardiac disorder causes impaired ventricular filling or ejection of blood at a rate commensurate with the requirements of the metabolizing tissues while maintaining normal filling pressures. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Providers should transport patients according to WA DOH Prehospital Cardiac Triage Destination Procedure AEMT and Above Providers Initiate 2 large-bore isotonic IVs; titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. If BP <90 mmHg systolic, administer a fluid challenge of 250cc (20ml/ kg for pediatric) and",
+    "answer": "3.03: Cardiogenic Shock",
+    "protocolID": "3-03",
+    "sourcePage": 63
+  },
+  {
+    "id": "s-3-04",
+    "prompt": "Patient presenting with signs, symptoms and history of moderate/ severe dyspnea and/ or decreased perfusion secondary to pulmonary edema. The patient will usually present with shortness of breath (wet noisy respirations /crackles) and possibly pink frothy sputum (pulmonary edema). It should be noted that a fever suggests infectious instead of cardiac origin. Explore differential diagnoses. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% ALS intercept recommended. AEMT and Above Providers Initiate isotonic IV; titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. Non-invasive positive pressure ventilation for respiratory distress, if available ALS Providers EKG and 12-Lead Non-invasive positive pressure ventilation for respi",
+    "answer": "3.04: Pulmonary Edema and Acute Decompensated Heart Failure",
+    "protocolID": "3-04",
+    "sourcePage": 65
+  },
+  {
+    "id": "s-3-05-01",
+    "prompt": "Pulseless and apneic from a medical cause. Tools CPR Tool Tempo: 110 compressions per minute Cycle: 2 minutes Reference: CPR Guidelines All EMS Providers Early access to CPR and early defibrillation is critical to successful cardiac resuscitation. BLS personnel should never wait for paramedic arrival before utilizing the AED. Also reference Dead at Scene Protocol. Es ablish Primary Management. Orchestrate resuscitation as personnel allow. ALS care should follow current AHA ACLS cardiac arres guidelines when not otherwise specified in this document. High-performance CPR is the priority and is the preferred method for adult cardiac arrest. If not trained in HPCPR, follow ACLS guidelines. Multiple Rescuer CPR should be started immediately while the AED is applied and continued until the AED is ready to analyze and shock. Deliver shock as soon as possible. Provide continuous compressions at ",
+    "answer": "3.05.01: Cardiac Arrest - Adult",
+    "protocolID": "3-05-01",
+    "sourcePage": 68
+  },
+  {
+    "id": "s-3-05-02",
+    "prompt": "Pulseless and apneic from a medical cause. Tools CPR Tool Tempo: 110 compressions per minute Cycle: 2 minutes Reference: CPR Guidelines All EMS Providers Early access to CPR and early defibrillation is critical to successful cardiac resuscitation. BLS personnel should never wait for paramedic arrival before utilizing the AED. Also reference Dead at Scene Protocol. Establish Primary Management. Orchestrate resuscitation as personnel allow. ALS care should follow current AHA ACLS cardiac arres guidelines when not otherwise specified in this document. Resuscitation should be attempted on all pediatric cardiac arrest patients with the exception of obvious rigor mortis, livor mortis, or brain extrusion. Patients who meet these criteria of death should be left at the scene, and the Medical Examiner's Office notified. Primary cardiac arrest in pediatric patients is rare and usually a result of ",
+    "answer": "3.05.02: Cardiac Arrest - Pediatric",
+    "protocolID": "3-05-02",
+    "sourcePage": 73
+  },
+  {
+    "id": "s-3-05-03",
+    "prompt": "Defibrillation for Refractory Ventricular Fibrillation (VF) and Pulseless Ventricular Tachycardia (pVT) Background Double Sequential Defibrillation (DSD) and vector change (VC) are two defibrillation strategies for refractory ventricular fibrillation and pulseless ventricular tachycardia. DSD is not synchronous. It is 2 separate shocks delivered as closely together as possible with separate pad placement. It is believed the different vectors provided by 2 sets of pads provide the benefit of the procedure. In order to utilize DSD, it is important that common terminology is utilized and understood. The second strategy, vector change, can also benefit a patient not responding to traditional anterior-lateral pad placement. In VC, the pads are changed from anterior-lateral to anterior-posterior for subsequen shocks. Key Definitions Refractory VF/pVT is defined as the rhythm never converting w",
+    "answer": "3.05.03: Refractory VF & pVT",
+    "protocolID": "3-05-03",
+    "sourcePage": 79
+  },
+  {
+    "id": "s-3-06-01",
+    "prompt": "The patient will present with a hemodynamically unstable bradycardia and decreased LOC. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers Initiate isotonic IV; titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. Monitor ETCO2 (capnography), if available. ALS Providers Atropine Medication Atropine Routes IV / IO Dose 1 mg Note: Dose may be repeated. Adult Paramedic Consi der transcutaneous pacing. Epinephrine infusion Medication Epinephrine Infusion Routes IV / IO Dose 2–10 mcg/min Conc. Multiple Note: Discontinue SBP >110 mmHg Adult Paramedic Pediatric E DUCATION DRAFT ONLY - DO NOT REFERENCE FOR PATIENT CARE Adult B radycardia Algorithm",
+    "answer": "3.06.01: Bradycardia - Adult",
+    "protocolID": "3-06-01",
+    "sourcePage": 81
+  },
+  {
+    "id": "s-3-06-02",
+    "prompt": "The patient will present with a hemodynamically unstable bradycardia and decreased LOC. All EMS Providers Establish Primary Management. Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers Initiate isotonic IV; titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. Monitor ETCO2 (capnography) for numerical value and waveform, if available. ALS Providers Neonate - (Age Birth-Discharge from Hospital - usually 2 days old) Reference and follow neonatal protocol. Infant/Child - (Age > Neonate-Adolescence) If heart rate < 60bpm, and signs of poor perfusion, despite adequate oxygenation and ventilation for 30 seconds, begin CPR. Epinephrine Medication Epinephrine 1:10,000 (epi) Routes IV / IO Dose 0.01 mg/kg Max. dose 1 mg Conc. 1 mg in 10 mL Note: Repeat d",
+    "answer": "3.06.02: Bradycardia - Pediatric",
+    "protocolID": "3-06-02",
+    "sourcePage": 83
+  },
+  {
+    "id": "s-3-07-01",
+    "prompt": "Designation of Condition: Wide Complex Tachycardia (WCT) is defined as a regular or irregular achydysrhythmia with a QRS duration ≥ 120 ms. This condition may present with hemodynamic instability and can rapidly deteriorate. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers IV/IO access Initiate isotonic IV; titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. ALS Providers 12-lead EKG (If possible, do not delay if hemodynamically unstable) Evaluate Polymorphic ALL sustained polymorphic rhythms are considered unstable; cardioversion at highest energy level. If suspected Torsades de Pointes Medication Magnesium Routes IV / IO Dose 2 g push ⚠ Torsades de Pointes Note: Consider Potential Causes and Trea",
+    "answer": "3.07.01: Adult - Wide Complex Tachycardia",
+    "protocolID": "3-07-01",
+    "sourcePage": 85
+  },
+  {
+    "id": "s-3-07-02",
+    "prompt": "The patient may have a heart rate >120bpm with atrial flutter or atrial fibrillation on the rhythm strip and be severely symptomatic. Severely symptomatic patients (chest pain, SOB, and/ or hypotension) should be determined to be critically unstable and with significantly altered levels of consciousness to consider cardioversion in the prehospital environment. This risk should be balanced with the known risk of embolic complications with conversion of a-fib/ flutter >48 hours in duration. If the duration of onset is unclear or suspected to be >48 hours, contact MEDICAL CONTROL prior to cardioversion. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers Initiate isotonic IV; titrate fluids to maintain SBP >90 mmHg or MAP >65, ",
+    "answer": "3.07.02: Atrial Fibrillation/Flutter",
+    "protocolID": "3-07-02",
+    "sourcePage": 88
+  },
+  {
+    "id": "s-3-07-03",
+    "prompt": "Narrow Complex Tachycardia is defined as a regular or irregular tachydysrhythmia with a QRS duration < 120 ms and a rate > 100. These conditions are generally not hemodynamically unstable. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers IV/IO access Initiate isotonic IV; titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. ALS Providers 12-lead EKG (If possible, do not delay if hemodynamically unstable) Unstable Unstable defined as: hypotension, AMS, shock, ischemic EKG changes, cardiac chest pain, acute decompensated heart failure Adult: Immediate synchronized cardioversion 100-200 J Anterior-posterior pad placement is superior because it maximizes current through the atria. If ineffective, escala",
+    "answer": "3.07.03: Adult - Narrow complex tachycardia",
+    "protocolID": "3-07-03",
+    "sourcePage": 90
+  },
+  {
+    "id": "s-3-07-04",
+    "prompt": "A patient < 14 years old with a heart rate >220 in infants and >180 in children. A HR less than that is likely sinus tachycardia All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers IV/IO access Initiate isotonic IV; titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. ALS Providers 12-lead EKG Vagal Maneuvers Assessmen Narrow vs wide QRS ( > 90ms sec ) Regular vs irregular. Stable vs unstable (poor perfusion, hypotension, shock, altered mental status). Consider reversible causes: hypoxia, fever, dehydration, shock, sepsis. Stable, Narrow, Regular complex Pediatric: Medication Adenosine (first dose) (adenocard) Route IV Dose 0.01 mg/kg Max. dose 6 mg Note: Rapid IVP (1-2 seconds) followed with a 20cc fl",
+    "answer": "3.07.04: Pediatric - Tachycardia with a Pulse",
+    "protocolID": "3-07-04",
+    "sourcePage": 94
+  },
+  {
+    "id": "s-4-03",
+    "prompt": "A systemic response to exposure to an allergen. Allergic reactions may involve a single or multiple body systems. Presentation may be mild or severe. While severe allergic reactions, known as anaphylaxis, are uncommon, it is important to recognize as it may progress very rapidly. Signs and Symptoms Skin: urticaria (hives), itching, angioedema (oral mucosa swelling) Respiratory: wheezing, stridor Cardiovascular: hypotension, cyanosis GI: cramps, emesis, diarrhea Neurologic: AMS, seizures Severity Respiratory, cardiovascular, and neurologic systems differentiate Mild: hives, itching Severe: angioedema, respiratory distress (wheezing, stridor, tachypnea, hypoxia), cardiovascular collapse (signs of shock), severe vomiting/diarrhea. Symptoms that have been present for >1 hour without increasing severity are unlikely to suddenly worsen. Rash or mild hives not associated with breathing or swall",
+    "answer": "4.03: Allergic Reactions & Anaphylaxis",
+    "protocolID": "4-03",
+    "sourcePage": 103
+  },
+  {
+    "id": "s-4-04",
+    "prompt": "Constriction of the small airways of the lungs, increased secretions and wheezing due to inflammation. The patient almost always has a history of asthma and is suffering some degree of dyspnea. Physical exam generally reveals respiratory distress, decreased air movement, and wheezing, however wheezing may no be present. Absence of wheezing with decreased breath sounds is often a sign of impending respiratory arrest. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% If patient presents with dyspnea and wheezing BLS providers may assist with the patient's own Albuterol via MDI. EMT and Above Providers All EMTs should upgrade response for respiratory distress patients requiring nebulizer treatments. Administer Albuterol via nebulizer. Medication Albu",
+    "answer": "4.04: Asthma",
+    "protocolID": "4-04",
+    "sourcePage": 108
+  },
+  {
+    "id": "s-4-06",
+    "prompt": "Acute exposure to carbon monoxide due to the incomplete combustion of hydrocarbons or carbon-based fuels. Considerations Exposure to Carbon Monoxide may cause flu-like symptoms, headache, dizziness, fatigue, nausea, and vomiting. Symptoms could progress to syncope, chest pain, dyspnea, and central nervous symptoms including confusion, hallucinations, and seizures. Always consider CO poisoning when multiple medical patients are found in the same residence with no other apparent cause. Remember your own safety first. Wearing an SCBA into a confined space may be appropriate. Always remove the victim from the source before beginning resuscitation efforts. Pulse oximetry will not provide accurate readings of true Oxygen saturation in the case of CO poisoning. Always consider cyanide poisoning occurring concurrently with CO poisoning in confined spaces Cyanide poisons mitochondria, forcing cel",
+    "answer": "4.06: CO Poisoning",
+    "protocolID": "4-06",
+    "sourcePage": 114
+  },
+  {
+    "id": "s-4-07",
+    "prompt": "Patient presents with signs, symptoms and history consistent with a cerebrovascular insult/ accident (i.e. focal weakness, numbness, incoordination, aphasia or confusion, usually sudden onset). Regional Level 1 stroke centers (thrombectomy centers) include: Providence Everett, Evergreen Kirkland, Harborview, Overlake, Virginia Mason Seattle, Swedish Cherry Hill. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Ass ess blood glucose level. If BGL <80mg/ dl, administer Dextrose per protocol Medication Dextrose 10% (D10) Routes IV / PO Dose 2.5–5 mL/kg Note: EMT can administer PO if no oral glucose available. AEMT EMT Neonate Paramedic Pediatric Detai led history and time of onset is critical, determine and document time last known normal (LKN). Whe",
+    "answer": "4.07: Cerebrovascular Accident (CVA)",
+    "protocolID": "4-07",
+    "sourcePage": 116
+  },
+  {
+    "id": "s-4-08",
+    "prompt": "A disease state characterized by the presence of airflow obstruction due to chronic inflammation. The airflow obstruction is generally progressive, may be accompanied by airway hyperreactivity and mucus production, and may be partially reversible. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% EMT and Above Providers All EMTs should upgrade response for respiratory distress patients requiring nebulizer treatments. Albuterol nebulizer: Medication Albuterol Route Nebulized Dose 5 mg Note: Repeat 5mg per nebulizer treatment as necessary, with cardiac and vital sign monitoring for toxicity. Some patients may need continuous nebulizer treatment during entire transport. Adult AEMT EMT Paramedic Combine 1st Albuterol nebulizer with Atrovent. Medicatio",
+    "answer": "4.08: COPD Exacerbation",
+    "protocolID": "4-08",
+    "sourcePage": 119
+  },
+  {
+    "id": "s-4-09",
+    "prompt": "Pediatric illness marked by signs of upper airway inflammation. When severe, child will have stridor at rest. Consider foreign body aspiration in your differential diagnosis. Watch for drooling (common in epiglottitis) and listen for a barking cough (common in croup). All EMS Providers Establish Primary Managemen Allow child to assume position of comfort. Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Keep child comfortable and quiet with parent. No invasive procedures unless lifesaving intervention is required. Attempt cool/humidified Oxygen mist administration; \"blow-by\" is an acceptable mode of delivery, paren may hold the mask. ALS Providers If cool mist is not effective and patient is in significant respiratory distress, i.e. stridor at rest: Administer Epinephrine 1:1,000 diluted in 3mls NS via nebuliz",
+    "answer": "4.09: Croup",
+    "protocolID": "4-09",
+    "sourcePage": 121
+  },
+  {
+    "id": "s-4-10",
+    "prompt": "A response to a medication marked by acute dystonia (muscle spasms) or akathisia (motor restlessness). Medications of concern include phenothiazine (e.g. Thorazine, Compazine, Phenergan) or butyrophenone (e.g. Haldol, Droperidol) and are often prescribed as antipsychotics and antiemetics. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg, or MAP >65, HR <110, mental status. Administer diphenhydramine Medication Diphenhydramine (Benadryl) Routes IV / IM / IO Dose 25–50 mg Note: AEMT only with MPD-approved specialized training Adult AEMT Paramedic Pediatric Medication Diphenhydramine (Benadryl) Routes IV / IM / IO Dose 1–2 mg/kg Max. dose 50 mg Note: AEMT only wit",
+    "answer": "4.10: Extrapyramidal Reactions",
+    "protocolID": "4-10",
+    "sourcePage": 122
+  },
+  {
+    "id": "s-4-11-01",
+    "prompt": "Patient presents with signs, symptoms or history of hypoglycemia (e.g. diabetics on insulin or oral agents), or chronic alcohol use. Completion of patient assessment and pertinent history, along with blood glucometry, is required prior to the administration of Dextrose. Considerations Hypoglycemia caused by sulfonylurea medications or long-acting insulins may require multiple doses of dextrose to maintain adequate blood sugar levels. Sulfonylurea medications include: glipizide, glimepiride, and glyburide Long-acting insulins include: insulin glargine (Lantus, Basaglar, Toujeo), insulin detemir (Levemir), and insulin degludec (Tresiba). CONTACT MEDICAL CONTROL for guidance on refusals for patients who have hypoglycemia secondary o sulfonylurea ingestion or long-acting insulin use. Contac Online Medical Control Phones: Online Medical Control: 425-404-5099 Note: Providence Everett - Colby C",
+    "answer": "4.11.01: Hypoglycemia",
+    "protocolID": "4-11-01",
+    "sourcePage": 123
+  },
+  {
+    "id": "s-4-11-02",
+    "prompt": "Patient presents with signs, symptoms or history of hyperglycemia (elevated blood sugar). Hyperglycemia may be caused by diabetes, medication ingestion, or acute illness. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% EMT and Above Providers Assess Blood Glucose Level Repeat BGL should be performed and recorded after all interventions. AEMT and Above Providers Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg, or MAP >65, HR <110, mental status. Monitor ETCO2 (capnography) for numerical value and waveform, if available. ETCO2 less than 27 mmHg with high BGL, tachycardia, and/or compensatory tachypnea can indicate metabolic acidosis/DKA. For possible DKA, a fluid bolus for the adult patient of 500ml isotonic fluid should be administe",
+    "answer": "4.11.02: Hyperglycemia",
+    "protocolID": "4-11-02",
+    "sourcePage": 125
+  },
+  {
+    "id": "s-4-12",
+    "prompt": "Hyperkalemia - Elevated Potassium Level (Abnormal Lab Values) Hyperkalemia is an often-asymptomatic condition that is discovered during routine lab testing, but it can lead to significant arrhythmias or sudden death. Providers may encounter patients at local clinics with a predetermined diagnosis or suspect the diagnosis from EKG findings (abnormal and wide QRS) or from history taking. Signs of hyperkalemia include generalized fatigue, weakness, paresthesias, paralysis, and palpitations. Special concern is warranted for patients with rhabdomyolysis, severe dehydration, crush injuries, or history of renal failure or dialysis. Any patient reported to have missed a dialysis session should be considered to have potential hyperkalemia and requires ALS evaluation including a 12-lead EKG. While no required in all situations, ALS transport is recommended as potentially life-threatening arrhythmi",
+    "answer": "4.12: Hyperkalemia",
+    "protocolID": "4-12",
+    "sourcePage": 126
+  },
+  {
+    "id": "s-4-13-01",
+    "prompt": "Designation of Condition: Elevated core temperature due to high ambient environmental temperatures, exertion, endocrine, or toxicologic causes (sympathomimetics, serotonergics, anticholinergics, etc…). Signs & Symptoms Core temperature 40°C (> 104°F) or 39°C (102.2°F) for sympathomimetics CNS Dysfunction (combative, stuporous, vomiting, seizures, etc) All EMS Providers Establish Primary Managemen Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Remove patient from warm environment. If patient is alert and without nausea, encourage oral hydration. Consider commercial electrolyte solution when available. Assess core temperature, continuous rectal temperature monitoring is preferred Core Temperature 39°C (<102.2°F): Initiate passive cooling methods while considering other causes for CNS dysfunction Core Temperatu",
+    "answer": "4.13.01: Hyperthermia/Heat Related Illness",
+    "protocolID": "4-13-01",
+    "sourcePage": 128
+  },
+  {
+    "id": "s-4-13-02",
+    "prompt": "Depressed core temperature 35°C (<95°F). Handle the hypothermic patient gently. Rough handling may cause ventricular fibrillation. Conditions, medications and substances that may predispose the patient to hypothermia include: Exhaustion, diabetes, hypothyroidism, iron deficiency, anorexia, renal failure, and many medications or drugs including tricyclic antidepressants, antipsychotics, narcotics, benzodiazepines, steroids, caffeine, alcohol and nicotine. Hypothermic arrests and near-drowning events deserve full resuscitative attempts. CONTACT MEDICAL CONTROL for direction. Contac Online Medical Control Phones: Online Medical Control: 425-404-5099 Address: Everett, WA, 98201 Note: Providence Everett - Colby Campus shall be contacted for all online medical control requests, regardless of final destination. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen R",
+    "answer": "4.13.02: Hypothermia",
+    "protocolID": "4-13-02",
+    "sourcePage": 130
+  },
+  {
+    "id": "s-4-14",
+    "prompt": "Nausea and/or vomiting due to acute illness, chronic condition, medication side effect, or other cause. Nausea and vomiting can be a sign of significant underlying illness, such as STEMI or head injury All EMS Providers Establish primary managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Consider ALS upgrade if there are concerns for underlying cardiac even Alcohol prep pad Hold 2.5cm (1 inch) from the nose and inhale for up to 60 seconds. Repeat as needed EMT and above providers Ondansetron (Zofran), per protocol: First line in pediatrics Medication Ondansetron (Zofran) Route ODT Dose 4–8 mg Note: Adult AEMT EMT Paramedic Medication Ondansetron (>6 months) (Zofran) Route ODT Dose 0.1 mg/kg Max. dose 4 mg Note: AEMT EMT Paramedic Pediatric AEMT and above providers Ondansetron (Zofran",
+    "answer": "4.14: Nausea & Vomiting",
+    "protocolID": "4-14",
+    "sourcePage": 131
+  },
+  {
+    "id": "s-4-15-01",
+    "prompt": "Opiate Overdose - Known or Suspected Evidence of ingestion, inhalation or injection of narcotics with a symptomatic patient (e.g. pin point pupils, unconscious, respiratory depression, altered mental status). All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Administer Naloxone Medication Naloxone (Narcan) Route IN Dose 2–4 mg Note: Make sure the nose is clear of secretions (blood, vomit, mucus). Briskly compress the syringe to administer 1-4mg (depending on concentration) of atomized spray, no more than 1mL per nostril. EMT Patient may awaken quickly and be combative. Combative behavior can be a side effect of hypoxia or hypercapnia, consider oxygen administration and assisted ventilations before reversal. BLS and Above Providers Assess Blood Glu",
+    "answer": "4.15.01: Opiate Overdose",
+    "protocolID": "4-15-01",
+    "sourcePage": 134
+  },
+  {
+    "id": "s-4-15-02",
+    "prompt": "Snohomish County EMS has adopted the WA State DOH standing order allowing EMS to dispense opioid overdose reversal medications (naloxone) to any person at risk of experiencing an opioid-related overdose or any person or entity in a position to assist a person at risk of experiencing an opioid-related overdose (RCW 69.41.095(5). The use of naloxone reversal kits has been proven to decrease patient mortality and morbidity by reducing he \"down-time\" of overdose patients, decreasing rates of hospitalization, as well as the incidence of costly long-term care from anoxic brain injury. The purpose of this standing order is to aid persons experiencing an opioid-related overdose by facilitating distribution of the opioid antagonist naloxone to people in Washington. Agencies will maintain kits to distribute to At-Risk Persons, family, friends, or other individuals who are in he position to assist ",
+    "answer": "4.15.02: Naloxone Leave Behind program",
+    "protocolID": "4-15-02",
+    "sourcePage": 136
+  },
+  {
+    "id": "s-4-16-01",
+    "prompt": "Intentional or unintentional exposure to a drug, medication, or substance at a dose higher than is safe. All EMS Providers Determine scene safety. Ensure appropriate Personal Protective Equipmen Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Obtai n history: Type/amount ingested. Route of ingestion (inhaled, injected, ingested, skin exposure) Timing of exposure History of other medication/drug/alcohol use Pre-existing medical history Consider calling the Poison Center at 800-222-1222 May need to still contact MEDICAL CONTROL for direction. Contac Online Medical Control Phones: Online Medical Control: 425-404-5099 Note: Providence Everett - Colby Campus shall be contacted for all online medical control requests, regardless of final destination. If seizing, refer ",
+    "answer": "4.16.01: Poisoning - Overdose",
+    "protocolID": "4-16-01",
+    "sourcePage": 140
+  },
+  {
+    "id": "s-4-16-02",
+    "prompt": "Evidence of ingestion, inhalation or injection of an organophosphate substance. S = Excessive Salivation L = Excessive Lacrimation U = Urination D = Defecation G = Gastric irritability E = Emesis All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg, or MAP >65, HR <110, mental status. Administer with caution to patient with signs of pulmonary edema. ALS Providers Administer Atropine. There is no maximum dose of atropine for organophosphate poisoning, as long as patient continues to be symptomatic. Medication Atropine Routes IV / IO / IM Dose 2 mg Conc. Multiple Note: Every 1-3 minutes repeated until symptoms abate Adult Paramedic Medication Atropine Routes IV / IO ",
+    "answer": "4.16.02: Organophosphate Poisoning",
+    "protocolID": "4-16-02",
+    "sourcePage": 142
+  },
+  {
+    "id": "s-4-16-03",
+    "prompt": "Patient will have ingested a known or suspected tricyclic substance. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg, or MAP >65, HR <110, mental status. Monitor vital signs aggressively. Rapid onset of seizures, dysrhythmias or coma may occur. ALS Providers If the patient has any one of the following: QRS widening >120ms. Ventricular dysrhythmias Administer Sodium Bicarbonate, repeat doses every 10 minutes as needed for QRS >120ms seconds Medication Sodium Bicarbonate Routes IV / IO Dose 1 mEq/kg Max. dose 50 mEq Note: Adult Paramedic Pediatric Titr ate IV fluids to blood pressure if hypotensive, otherwise administer 500cc bolus, then TKO. Multiple IV lines a",
+    "answer": "4.16.03: TCA Overdose",
+    "protocolID": "4-16-03",
+    "sourcePage": 143
+  },
+  {
+    "id": "s-4-17",
+    "prompt": "A person who is restless, agitated, aggressive, or violent due to any cause. Every effort should be made to identify and treat reversible causes of agitation before physical restraints or medications are used. Agitation is used as an umbrella term in this document. Common Causes of Agitation Can Include, but are not limited to: Head injury/intracranial bleed Toxidromes Hypoxia Alcohol Withdrawal Psychiatric crisis Infection/sepsis Hypo/hyperglycemia Considerations Every effort should be made to identify and treat reversible causes of agitation; agitation is a diagnosis of exclusion. De-escalation and pharmacological calming agents are preferred over physical restraint; if physical restraint is deemed necessary for safe transport, the patient shall be evaluated by ALS for concurrent use of calming agents. Pharmacological calming agents should be tailored to the clinically suspected source",
+    "answer": "4.17: Restless, Agitated, or Aggressive Patients",
+    "protocolID": "4-17",
+    "sourcePage": 144
+  },
+  {
+    "id": "s-4-18",
+    "prompt": "Most seizures spontaneously end within 5 minutes with a postictal state of varying length with unconsciousness or altered LOC. Status epilepticus (SE) is witnessed seizure activity that continues for >10 minutes or multiple seizures that reoccur without a return to full mental capacity. Status epilepticus and first-time seizures require Paramedic level intervention. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Protect patient from further injury and embarrassment during seizure. Obtain history of seizure activity including onset, duration, type, medication taken and prior history. EMT and Above Providers Assess Blood Glucose Level and treat hypoglycemia per protocol AEMT and Above Providers Initiate isotonic IV; Titrate fluids to maintain SBP",
+    "answer": "4.18: Seizures/Convulsions",
+    "protocolID": "4-18",
+    "sourcePage": 149
+  },
+  {
+    "id": "s-4-19",
+    "prompt": "Sepsis is the combination of SIRS (Systemic Inflammatory Response) and a presumed source of infection. Sepsis runs a continuum from mildly abnormal vital signs to septic shock and altered mental status (ranging from delirium to lethargy). Early recognition and hemodynamic support are paramount. Blood pressure is often normal in sepsis and worsens as septic shock occurs. Criteria Prehospital sepsis criteria include a suspected or documented infection with any 2 of the following: HR>90 RR>20 Temp <36.0°C (96.8°F) or >38°C (100.4°F) A CODE SEPSIS should be initiated for any patient found to meet Sepsis Criteria who also exhibits any of he following: MAP <65 or relative hypotension (history of hypertension on meds and has a SBP of 100, with other signs of sepsis) Lactate >2 mmol/L ETCO2 <25 mm/hg Signs of shock: altered mental status, lethargy, poor peripheral perfusion, ischemic EKG changes",
+    "answer": "4.19: Sepsis",
+    "protocolID": "4-19",
+    "sourcePage": 154
+  },
+  {
+    "id": "s-4-20",
+    "prompt": "Syncope is a symptom complex that is composed of a brief loss of consciousness associated with an inability to maintain postural tone that \"spontaneously\" (i.e., no postictal period) and \"completely\" (no residual neurologic deficit) resolves without medical intervention. Near-syncope is defined as a patien almost losing consciousness, carries the same risks as syncope and is therefore approached in the same way. Considerations A thorough history is critical to determining the underlying etiology. Syncope is often a result of another medical emergency and may require further testing and observation. Identifying patients with cardiac syncope is one of the most important diagnostic considerations since such patients have a 6-month all- cause mortality rate that exceeds 10%. Syncope is a symptom whose treatment should be guided by the underlying condition. ALS Evaluation Indicators If any of",
+    "answer": "4.20: Syncope",
+    "protocolID": "4-20",
+    "sourcePage": 157
+  },
+  {
+    "id": "s-5-02",
+    "prompt": "Imminent spontaneous vaginal delivery in which no complications are anticipated. All EMS Providers Establish Primary Managemen Create field for delivery. Treat infant with drying, warming, positioning, and stimulation. Clean, dry and wrap baby in clean sheet, towel or blanket. Cover the head and place the infant skin-to-skin to mother's chest covered by a blanket. If the baby's respirations and movement are depressed or abnormal despite above, follow Neonatal Resuscitation protocol. Urgent clamping of cord only indicated if neonatal resuscitation needed. Oxygen blow-by as needed. Firmly massage the fundus after delivery of neonate as needed to control bleeding. Gently deliver the placenta; do not pull on the umbilical cord. AEMT and Above Providers Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg, or MAP >65, HR <110, mental status. Notes During transport, both the newborn a",
+    "answer": "5.02: Normal Imminent Delivery",
+    "protocolID": "5-02",
+    "sourcePage": 160
+  },
+  {
+    "id": "s-5-03",
+    "prompt": "Active labor and/or imminent delivery in which the head is not the presenting part. This includes breech presentation, limb presentation, prolapsed cord, and nuchal cord. All EMS Providers Establish Primary Managemen Breech or Limb All EMS Providers Support infant's body. Delivery of the lower extremities is generally easily accomplished. You may have to reach inside and deliver each leg individually. Once the umbilical cord is visualized, it should be pulled gently down and out of the vagina. After the umbilicus has been delivered, the head should be delivered in 3-5 minutes. The shoulders are delivered by sweeping the anterior arm out rotating the fetus so that the other arm is anterior and sweep the second arm out. The infant will then usually rotate so that the back faces anteriorly. Cover infant with towel and gently raise legs. While inserting finger into mouth and gently flexing h",
+    "answer": "5.03: Abnormal Birth Presentations and Complications",
+    "protocolID": "5-03",
+    "sourcePage": 161
+  },
+  {
+    "id": "s-5-04",
+    "prompt": "Postpartum hemorrhage can occur at any interval up to 30 days after delivery. Causes are variable and include, but are not limited to, uterine rupture, retained products of conception, undelivered placenta, bleeding disorder, and cocaine use. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Perf orm fundal massage AEMT and above Provider Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg, or MAP >65, HR <110, mental status. Monitor ETCO2 (capnography) for numerical value and waveform, if available. ALS Providers Consider blood administration if patient meets criteria and capable Systolic BP <70mmHg regardless of heart rate Systolic BP <90 and HR greater than 110. Medication Whole Blood & Blood Components Routes IV / IO Dose 1–2 units ⚠",
+    "answer": "5.04: Postpartum Hemorrhage",
+    "protocolID": "5-04",
+    "sourcePage": 163
+  },
+  {
+    "id": "s-5-05",
+    "prompt": "The patient is a newborn who requires resuscitation. Extent and level of intervention is patient condition dependent. For the purposes of neonatal resuscitation, this protocol applies from the age of viability to 28 days. If infant is premature, assess if upper and lower eyelids are fused together. Fusion generally indicates a non-viable level of prematurity. All EMS Providers Establish Primary Managemen DO NOT delay delivery if birth appears imminent. There is no need for regular suctioning just because meconium is present. Only suction if the child is non- vigorous. Warm and dry baby. Place in supine position in slight Trendelenburg and open/maintain airway. Tactile stimulation of feet and/or back. If apneic, gasping, or persistent central cyanosis or HR <100 bpm, initiate BVM on 21% O2, titrating to the lowest amount required to achieve appropriate pre-ductal SpO2 and consider PEEP wi",
+    "answer": "5.05: Neonatal Resuscitation",
+    "protocolID": "5-05",
+    "sourcePage": 165
+  },
+  {
+    "id": "s-5-06",
+    "prompt": "The need to stop contractions. This should only be done under the direction of the primary presen Obstetrician and or MEDICAL CONTROL. Contac Online Medical Control Phones: Online Medical Control: 425-404-5099 Note: Providence Everett - Colby Campus shall be contacted for all online medical control requests, regardless of final destination. All EMS Providers Establish primary management. Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% AEMT and Above Providers Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. Monitor ETCO2 (capnography) for numerical value and waveform, if available. ALS Providers Medication Magnesium Sulfate Routes IV / IO Dose 6 g Conc. Multiple Give over 20 minutes Note: Mix 6g in 100-250cc and infuse over 20 minutes. If usi",
+    "answer": "5.06: Tocolysis",
+    "protocolID": "5-06",
+    "sourcePage": 167
+  },
+  {
+    "id": "s-5-07",
+    "prompt": "Abnormal bleeding from the vagina. May be caused by trauma, miscarriage, endometriosis, infection, and other disorders of the uterus. For bleeding that occurs within 30 days of giving birth, see Postpartum Hemorrhage protocol. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Place dressings against the vaginal area. DO NOT place anything inside the vagina. If hemorrhage is suspected to be due to an assault, see Assault/Rape protocol. AEMT and Above Providers Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg, or MAP >65, HR <110, mental status. Consider 2nd IV/IO if condition warrants Monitor ETCO2 (capnography) for numerical value and waveform, if available. ALS Providers Consider blood administration if patient meets criteria and cap",
+    "answer": "5.07: Vaginal Hemorrhage",
+    "protocolID": "5-07",
+    "sourcePage": 168
+  },
+  {
+    "id": "s-5-08",
+    "prompt": "Pre-eclampsia and Eclampsia are hypertensive disorders specific to pregnancy. They occur in the 2nd half of pregnancy (after the 20th week) and up to six weeks after delivery. Pre-eclampsia can progress to eclampsia, resulting in seizures, respiratory failure/pulmonary edema, and cardiovascular collapse. Eclampsia is a life-threatening event. Considerations Pre-eclampsia is characterized by hypertension (140/ 90), protein in the urine, hyperreflexia, increased edema, headache, and/or visual disturbances. The patient will often present generally ill, pale, with edema in the face and hands. History of a previous seizure disorder should be determined. When in doubt contact MEDICAL CONTROL. Contac Online Medical Control Phones: Online Medical Control: 425-404-5099 Note: Providence Everett - Colby Campus shall be contacted for all online medical control requests, regardless of final destinati",
+    "answer": "5.08: Pre-Eclampsia/Eclampsia",
+    "protocolID": "5-08",
+    "sourcePage": 169
+  },
+  {
+    "id": "s-6-01",
+    "prompt": "Trauma patients who have been identified as sick based on the standard sick/not sick criteria of level of consciousness, skin signs, work of breathing, body position and pulse quality. The goal of care in this patien is to provide the highest level of care to the trauma patient while minimizing scene time and transporting the patient as quickly as possible to the appropriate hospital (per WA State Trauma Triage Destination Procedure). Considerations In major trauma, life threats should be treated as soon as they are discovered in the following priority: 1. M - Massive Hemorrhage (#1 priority) 2. A - Airway Managemen 3. R - Respiratory Assessmen 4. C - Circulation Assessmen 5. H - Head Injury / Hypothermia Actions listed below are to be performed as indicated Massive Hemorrhage (#1 priority) BLS Actions on Scene Tourniquet extremities Wound pack junctional wounds After treating obvious ma",
+    "answer": "6.01: Major Trauma Care",
+    "protocolID": "6-01",
+    "sourcePage": 171
+  },
+  {
+    "id": "s-6-02",
+    "prompt": "A person who has been subjected to a physical assault, or has experienced nonconsensual sexual penetration of the oral cavity, vagina, or rectum, or has been forced to penetrate the oral cavity, vagina, or rectum. Overview Documentation is essential. Consider additional resources such as rape crisis and protective services. History taking should be limited to establishing the extent of physical injuries associated with the assault, and/or other medical issues immediately relevant to the situation. Discussions regarding details of a sexual assault/abuse may be construed as evidence tampering by the courts and therefore compromise prosecution of the assailant. This is especially true when gathering information from abused/assaulted children or gathering such information in a child's presence. This is an important exception to the general idea that more information is always better. All EMS",
+    "answer": "6.02: Assault/Rape",
+    "protocolID": "6-02",
+    "sourcePage": 174
+  },
+  {
+    "id": "s-6-03",
+    "prompt": "Most bites, except in rare instances, are not life or limb threatening. Inappropriate treatment with ice and ourniquets can cause more damage than the bite itself. More limbs are lost because of inappropriate reatment than due to the original injury. Animal/Human All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Remove constrictive clothing. Gently irrigate wounds with irrigation solution and dress. Notify Animal Control if appropriate. A physician should evaluate all bites that break the skin the same day. AEMT and Above Providers If shock potential is present, initiate isotonic IV and Titrate fluids to maintain SBP >90 mmHg or MAP >65, HR <110, mental status. ALS Providers Consider analgesia per protocol Snake All EMS Providers Establish Primary",
+    "answer": "6.03: Bites",
+    "protocolID": "6-03",
+    "sourcePage": 175
+  },
+  {
+    "id": "s-6-05",
+    "prompt": "Trauma caused by crushing injuries presents unique problems in patient management. Entrapmen commonly complicates access and evacuation. Cellular destruction causes lactic acidosis, electrolyte imbalances and metabolic disturbance. Swelling and constriction interrupt distal circulation. When the crushing force is relieved and circulation restored, blood returning from the injured tissue to systemic circulation is acidotic and dangerously high in potassium, phosphorus and myoglobin. Crushed tissue is also particularly susceptible to infection, causing sepsis. These factors combine to cause cardiac dysrhythmias, systemic electrolyte derangement, renal failure and hypotensive shock. All EMS Providers Ensure scene safety when accessing patients. Remove lightly trapped victims before attempting extrication of the heavily entrapped. Establish primary managemen Administer Oxygen: Medication Oxy",
+    "answer": "6.05: Crush Injuries",
+    "protocolID": "6-05",
+    "sourcePage": 181
+  },
+  {
+    "id": "s-6-06",
+    "prompt": "The patient will present with signs and symptoms of eye pain due to small foreign bodies, superficial corneal abrasions, mace or chemical exposure, or welder's burn (UV keratitis). All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Chemicals or Foreign Objects Assess for obvious trauma to the globe or cornea. If found, do not irrigate, cover both eyes with a loose dry dressing. Where there is no obvious trauma to the globe, gently flush eyes with NS for at least 15 minutes, or until 1- L of NS has been used. Do not be concerned with removal of contact lenses in the field unless broken. Trea by irrigation, like any foreign body. In the case of exposure to law enforcement type chemical agents such as Pepper Spray, transport may no be required followi",
+    "answer": "6.06: Eye Injuries",
+    "protocolID": "6-06",
+    "sourcePage": 184
+  },
+  {
+    "id": "s-6-07",
+    "prompt": "Treat significant dislocations, strains and sprains as a fracture until proven otherwise. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% If a distracting injury exists, consider providing spinal motion restriction (if appropriate) and transport. If patient is stable or if isolated injury exists: Check distal pulses, motion, and sensation before and after splinting, and reassess frequently. Splint injuries in position found. If a limb must be moved for extrication or transport, gently straighten to anatomically correct position and splint. Immobilize the joints proximal and distal to the injury. If extremity or joint is severely angulated with absent pulses or loss of sensation, gently straighten to anatomically correct positioning. Reassess cir",
+    "answer": "6.07: Fractures - Isolated",
+    "protocolID": "6-07",
+    "sourcePage": 186
+  },
+  {
+    "id": "s-6-08",
+    "prompt": "The patient will be suspected of having increased intracranial pressure due to traumatic injury. A history of rauma associated with any or all of the following: slowing pulse rate, increasing blood pressure, increasingly irregular respiratory pattern, altered level of consciousness, unequal pupils, repetitive speech patterns, seizures, or presence of Cerebrospinal Fluid (CSF) leak. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Monitor serial GCS and document every 5 minutes for patients who present with GCS <8. Score Calculate score Glascow Coma Scale - Adul Score Calculate score Glascow Coma Scale (GCS) - Pediatric 2-5yo Score Calculate score Glascow Coma Scale (GCS) - Infan Ensure adequate perfusion - Systolic BP >110 mmHg or MAP >80 mmHg. C",
+    "answer": "6.08: Increased ICP - Traumatic",
+    "protocolID": "6-08",
+    "sourcePage": 187
+  },
+  {
+    "id": "s-6-09",
+    "prompt": "A state of hypoperfusion due to circulatory failure. Shock leads to cellular and tissue hypoxia resulting in cellular death and dysfunction of vital organs. Effects of shock are reversible in the early stages and a delay in diagnosis and/or timely initiation of treatment can lead to irreversible changes including multiorgan failure and death. Considerations Transport should be initiated AS SOON AS POSSIBLE. Longer scene times should occur only in rare situations, (e.g. the scene is unsafe, multiple patients, unstable precarious airway. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Begin immediate transport to appropriate facility if ALS arrival not imminent. Keep patient warm Control external bleeding per Hemorrhage Control Procedure AEMT and ",
+    "answer": "6.09: Traumatic Shock & Hemorrhage",
+    "protocolID": "6-09",
+    "sourcePage": 189
+  },
+  {
+    "id": "s-6-10",
+    "prompt": "Traumatic spinal injury may result from blunt or penetrating trauma, acceleration–deceleration forces, or other physical insults to the spinal column. These injuries carry the risk of irreversible neurologic damage or death. Traumatic Spinal Injuries may or may not present with neurological insult. All EMS Providers Establish Primary Managemen Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Assess circulation, sensation, and motor function in all extremities. Maintain spine in anatomic alignment per Spinal Motion Restriction Procedure AEMT and Above Providers If spinal cord injury is suspected: Initiate isotonic IV; Titrate fluids to maintain SBP >90 mmHg, or MAP >65, HR <110, mental status. ALS Providers If spinal cord injury is suspected: Be prepared to secure airway in cases of cervical ",
+    "answer": "6.10: Spinal Injuries",
+    "protocolID": "6-10",
+    "sourcePage": 193
+  },
+  {
+    "id": "s-6-11",
+    "prompt": "The patient presents with an extremity (e.g., hand, foot, leg, toe, and finger) that has been completely or partially amputated. Extremity parts are potentially salvageable. Optimal results occur when re-implantation occurs within a few hours (less than six hours post injury). All EMS Providers Establish Primary Management. Administer Oxygen: Medication Oxygen Route Inhaled Dose 1–25 lpm ⚠ DO NOT WITHHOLD OXYGEN IN ANY CRITICALLY ILL PATIENT Note: Titrate SpO2 to >94% Control bleeding per hemorrhage protocol. Consider rinsing the amputated parts with NS to remove loose debris. DO NOT scrub. Wrap loosely in saline moistened gauze and place into plastic bag or emesis basin. DO NOT pour water into bag and do not cool directly with ice. Place in sealed bag in ice water bath, when possible. Notify MEDICAL CONTROL of possible surgical candidate and seek direction to appropriate Medical Facilit",
+    "answer": "6.11: Amputations",
+    "protocolID": "6-11",
+    "sourcePage": 195
+  },
+  {
+    "id": "s-6-12",
+    "prompt": "Washington State Trauma Triage Destination Procedure Trauma System Activation is the term used to request the activation of the Trauma System. This activation allows for the highest state of readiness and preparation prior to the trauma patient's arrival. Trauma Activation provides a mechanism for EMS to request the activation of the Trauma Team when indicated by he appropriate triage criteria of the trauma patient at the scene. Trauma Team Activation Criteria Patients who meet WA State DOH Trauma Criteria Anticipated arrival of >=3 seriously injured patients. Red Criteria: High Risk for Serious Injury Injury Patterns ☐ Penetrating injuries to head, neck, torso, and proximal extremities ☐ Skull deformity, suspected skull fracture ☐ Suspected spinal injury with new motor or sensory loss ☐ Chest wall instability, deformity, or suspected flail ches ☐ Suspected pelvic fracture ☐ Suspected fr",
+    "answer": "6.12: Trauma Activations",
+    "protocolID": "6-12",
+    "sourcePage": 196
+  }
+]

@@ -1,0 +1,2930 @@
+[
+  {
+    "id": "10-02",
+    "protocolNumber": "10.02",
+    "name": "Acetaminophen (Tylenol®)",
+    "revised": "",
+    "drugClass": [
+      "Analgesic, Antipyretic"
+    ],
+    "routes": [
+      "PO, PR"
+    ],
+    "indications": [
+      "Fever",
+      "Mild to moderate pain"
+    ],
+    "contraindications": [
+      "Hepatic failure or impairment"
+    ],
+    "administrationText": "Fever:\nAdult:\n▫ 650mg- 1000mg (maximum dose)\nPediatric (≥7 months):\n▫ 15mg/kg\nPediatric (≤6 months):\n▫ Not indicated\nMild to Moderate Pain:\nAdult:\n▫ 650mg- 1000mg (maximum dose)\nPediatric (≥7 months):\n▫ 15mg/kg\nPediatric (≤6 months):\n▫ Not indicated",
+    "specialNotes": [
+      "Many over-the-counter cold medications include acetaminophen, confirm home medications before",
+      "administration.",
+      "All patients receiving acetaminophen for pain management shall receive a documented pain score before",
+      "and after analgesia"
+    ],
+    "doseCards": [
+      {
+        "id": "10-02-d1",
+        "prompt": "Acetaminophen (Tylenol®) — Adult",
+        "answer": "650mg- 1000mg (maximum dose)",
+        "sourcePage": 275
+      },
+      {
+        "id": "10-02-d2",
+        "prompt": "Acetaminophen (Tylenol®) — Pediatric (≥7 months)",
+        "answer": "15mg/kg",
+        "sourcePage": 275
+      },
+      {
+        "id": "10-02-d3",
+        "prompt": "Acetaminophen (Tylenol®) — Adult",
+        "answer": "650mg- 1000mg (maximum dose)",
+        "sourcePage": 275
+      },
+      {
+        "id": "10-02-d4",
+        "prompt": "Acetaminophen (Tylenol®) — Pediatric (≥7 months)",
+        "answer": "15mg/kg",
+        "sourcePage": 275
+      }
+    ],
+    "sourcePage": 275,
+    "educationDraft": true
+  },
+  {
+    "id": "10-03",
+    "protocolNumber": "10.03",
+    "name": "Acetylsalicylic Acid (ASA, Aspirin)",
+    "revised": "",
+    "drugClass": [
+      "Anti-inflammatory, analgesic, antipyretic, anticoagulant"
+    ],
+    "routes": [
+      "PO"
+    ],
+    "indications": [
+      "Non-Traumatic Chest Pain"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Bleeding disorders",
+      "Asthma (Relative)"
+    ],
+    "administrationText": "Acute Coronary Syndrome (ACS)\nAdult:\n▫ 324mg orally (prefer chewable)\nPediatric:\n▫ Should not be given to pediatric patients.",
+    "specialNotes": [
+      "All patients with suspected ACS and without contraindications receive aspirin.",
+      "All patients with suspected ACS should have aspirin documented in the pre-hospital EHR, either as given",
+      "by EMS, given PTA, or not given due to contraindication."
+    ],
+    "doseCards": [
+      {
+        "id": "10-03-d1",
+        "prompt": "Acetylsalicylic Acid (ASA, Aspirin) — Adult",
+        "answer": "324mg orally (prefer chewable)",
+        "sourcePage": 276
+      }
+    ],
+    "sourcePage": 276,
+    "educationDraft": true
+  },
+  {
+    "id": "10-04",
+    "protocolNumber": "10.04",
+    "name": "Adenosine (Adenocard®)",
+    "revised": "",
+    "drugClass": [
+      "Antidysrhythmic"
+    ],
+    "routes": [
+      "IV"
+    ],
+    "indications": [
+      "Paroxysmal Supraventricular Tachycardia (PSVT)"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Atrial fibrillation with Wolff-Parkinson White (WPW) syndrome",
+      "High-degree A-V block and sick sinus syndrome, unless a pacemaker is in place."
+    ],
+    "administrationText": "SVT:\nAdult:\n▫ 12mg rapid IVP, followed by a 20cc flush.\n▫ Single doses of greater than 12mg should not be given.\nPediatric:\n▫ Initial 0.1mg/kg rapid IV\n▫ Repeat in 2-3 minutes if no change.\n▫ Second and third dose at 0.2mg/kg rapid IVP.\n▫ Pediatric dosage maxes at adult dose.",
+    "specialNotes": [
+      "May induce bronchospasm in reactive airway disease.",
+      "Transient dysrhythmias, such as periods of asystole, are common and self-limiting, requiring no",
+      "treatment unless they persist.",
+      "Side effects may include facial flushing, headache, chest pain, dyspnea, lightheadedness, and nausea.",
+      "Must be given in the IV port most proximal to the heart."
+    ],
+    "doseCards": [
+      {
+        "id": "10-04-d1",
+        "prompt": "Adenosine (Adenocard®) — Adult",
+        "answer": "12mg rapid IVP, followed by a 20cc flush.",
+        "sourcePage": 277
+      },
+      {
+        "id": "10-04-d2",
+        "prompt": "Adenosine (Adenocard®) — Adult",
+        "answer": "Single doses of greater than 12mg should not be given.",
+        "sourcePage": 277
+      },
+      {
+        "id": "10-04-d3",
+        "prompt": "Adenosine (Adenocard®) — Pediatric",
+        "answer": "Initial 0.1mg/kg rapid IV",
+        "sourcePage": 277
+      },
+      {
+        "id": "10-04-d4",
+        "prompt": "Adenosine (Adenocard®) — Pediatric",
+        "answer": "Second and third dose at 0.2mg/kg rapid IVP.",
+        "sourcePage": 277
+      }
+    ],
+    "sourcePage": 277,
+    "educationDraft": true
+  },
+  {
+    "id": "10-05",
+    "protocolNumber": "10.05",
+    "name": "Albuterol (Proventil®, Ventolin®)",
+    "revised": "",
+    "drugClass": [
+      "Sympathomimetic, beta 2 selective adrenergic bronchodilator"
+    ],
+    "routes": [
+      "Inhalation, Nebulized"
+    ],
+    "indications": [
+      "Reversible airway obstruction caused by:",
+      "Wheezing associated with asthma.",
+      "COPD",
+      "Anaphylaxis",
+      "Hyperkalemia"
+    ],
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "administrationText": "Asthma/COPD/Anaphylaxis\nAdult:\n▫ 5-10mg in 3ml of sterile NS, given as inhalation therapy over 5-15 minutes.\n▫ May be repeated as necessary.\nPediatric:\n▫ 2.5mg (up to adult doses) in 3ml of sterile NS, given as inhalation therapy over 5-15 minutes.\n▫ May be repeated as necessary.\nHyperkalemia\nAdult:\n▫ 5-10mg in 3ml of sterile NS, given as inhalation therapy over 5-15 minutes.\n▫ May be repeated as necessary.\nPediatric:\n▫ 2.5mg (up to adult doses) in 3ml of sterile NS, given as inhalation therapy over 5-15 minutes.\n▫ May be repeated as necessary.",
+    "specialNotes": [
+      "First dose is typically given as part of a Duoneb.",
+      "Most side effects are dose-related."
+    ],
+    "doseCards": [
+      {
+        "id": "10-05-d1",
+        "prompt": "Albuterol (Proventil®, Ventolin®) — Adult",
+        "answer": "5-10mg in 3ml of sterile NS, given as inhalation therapy over 5-15 minutes.",
+        "sourcePage": 278
+      },
+      {
+        "id": "10-05-d2",
+        "prompt": "Albuterol (Proventil®, Ventolin®) — Pediatric",
+        "answer": "2.5mg (up to adult doses) in 3ml of sterile NS, given as inhalation therapy over 5-15 minutes.",
+        "sourcePage": 278
+      },
+      {
+        "id": "10-05-d3",
+        "prompt": "Albuterol (Proventil®, Ventolin®) — Adult",
+        "answer": "5-10mg in 3ml of sterile NS, given as inhalation therapy over 5-15 minutes.",
+        "sourcePage": 278
+      },
+      {
+        "id": "10-05-d4",
+        "prompt": "Albuterol (Proventil®, Ventolin®) — Pediatric",
+        "answer": "2.5mg (up to adult doses) in 3ml of sterile NS, given as inhalation therapy over 5-15 minutes.",
+        "sourcePage": 278
+      }
+    ],
+    "sourcePage": 278,
+    "educationDraft": true
+  },
+  {
+    "id": "10-06",
+    "protocolNumber": "10.06",
+    "name": "Amiodarone (Cordarone®)",
+    "revised": "",
+    "drugClass": [
+      "Antiarrhythmic (Class llb)"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Pulseless VF/VT",
+      "Unstable sustained VT with a pulse(Adult only)"
+    ],
+    "contraindications": [
+      "None, if the patient is in cardiac arrest with VF or VT.",
+      "High-degree AV blocks or sinus node dysfunction with marked bradycardia unless a functional pacemaker",
+      "is in place.",
+      "Congestive heart failure.",
+      "Atrial fibrillation with Wolff-Parkinson-White (WPW) syndrome"
+    ],
+    "administrationText": "Pulseless VT/VF\nAdult:\n▫ 300mg initial bolus IV, IO.\n▫ May re-bolus with 150mg.\nPediatric:\n▫ Lidocaine preferred, only use amiodarone if contraindication present.\n• 5 mg/kg initial bolus.\n• May repeat up to 3 total doses for refractory VF/pulseless VT.\n• Maxes out at adult doses: 300mg initial bolus and 150mg re-bolus.\nUnstable sustained VT with a pulse\nAdult\n▫ 150mg over 10 minutes.\n▫ May re-dose with 150mg.\nPediatric\n▫ Contact MEDICAL CONTROL\nEDUC\nATION DRAFT ONLY - DO NOT REFERENCE FOR PATIENT CARE\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.",
+    "specialNotes": [
+      "In pediatrics, lidocaine is preferred to amiodarone in VF/pulseless VT",
+      "May be given concurrently with Epinephrine in the pulseless patient.",
+      "Hypotension and bradycardia can occur in patients with a pulse."
+    ],
+    "doseCards": [
+      {
+        "id": "10-06-d1",
+        "prompt": "Amiodarone (Cordarone®) — Adult",
+        "answer": "300mg initial bolus IV, IO.",
+        "sourcePage": 279
+      },
+      {
+        "id": "10-06-d2",
+        "prompt": "Amiodarone (Cordarone®) — Adult",
+        "answer": "May re-bolus with 150mg.",
+        "sourcePage": 279
+      },
+      {
+        "id": "10-06-d3",
+        "prompt": "Amiodarone (Cordarone®) — Pediatric",
+        "answer": "5 mg/kg initial bolus.",
+        "sourcePage": 279
+      },
+      {
+        "id": "10-06-d4",
+        "prompt": "Amiodarone (Cordarone®) — Pediatric",
+        "answer": "Maxes out at adult doses: 300mg initial bolus and 150mg re-bolus.",
+        "sourcePage": 279
+      },
+      {
+        "id": "10-06-d5",
+        "prompt": "Amiodarone (Cordarone®) — Adult",
+        "answer": "150mg over 10 minutes.",
+        "sourcePage": 279
+      },
+      {
+        "id": "10-06-d6",
+        "prompt": "Amiodarone (Cordarone®) — Adult",
+        "answer": "May re-dose with 150mg.",
+        "sourcePage": 279
+      }
+    ],
+    "sourcePage": 279,
+    "educationDraft": true
+  },
+  {
+    "id": "10-07",
+    "protocolNumber": "10.07",
+    "name": "Atropine Sulfate",
+    "revised": "",
+    "drugClass": [
+      "Anticholinergic (parasympatholytic)"
+    ],
+    "routes": [
+      "IV, IO, IM"
+    ],
+    "indications": [
+      "Symptomatic sinus bradycardia or AV Blocks",
+      "Bradycardia associated with PEA",
+      "Anticholinesterase poisonings - organophosphate and nerve agent"
+    ],
+    "contraindications": [
+      "None when indicated."
+    ],
+    "administrationText": "Symptomatic Bradycardia & Bradycardic PEA\nAdult:\n▫ 1mg IV, IO every 3-5 minutes\n▫ Maximum of 3mg\nPediatric:\n▫ 0.01mg/kg IV, IO\n▫ Maximum of 0.5mg\nAnticholinesterase poisoning (organophosphates or nerve agent):\nAdult:\n▫ 2mg IV, IO, or IM\n▫ Repeat until symptoms abate\nPediatric:\n▫ 0.01mg/kg IV, IO, or IM\n▫ Repeat until symptoms abate",
+    "specialNotes": [
+      "May not be effective with high-degree AV block, be prepared to proceed with pacing and/or vasopressors.",
+      "Bradycardia in the setting of an acute MI is common and probably beneficial. Don't treat the rate unless",
+      "there are signs of poor perfusion (i.e. low blood pressure, mental confusion). Chest pain could be due to an",
+      "ACS or to poor perfusion caused by the bradycardia itself.",
+      "Atropine increases the workload and myocardial O2 consumption of heart. Beware of patients who have an",
+      "ischemic myocardium. Administer supplemental Oxygen."
+    ],
+    "doseCards": [
+      {
+        "id": "10-07-d1",
+        "prompt": "Atropine Sulfate — Adult",
+        "answer": "1mg IV, IO every 3-5 minutes",
+        "sourcePage": 281
+      },
+      {
+        "id": "10-07-d2",
+        "prompt": "Atropine Sulfate — Adult",
+        "answer": "Maximum of 3mg",
+        "sourcePage": 281
+      },
+      {
+        "id": "10-07-d3",
+        "prompt": "Atropine Sulfate — Pediatric",
+        "answer": "0.01mg/kg IV, IO",
+        "sourcePage": 281
+      },
+      {
+        "id": "10-07-d4",
+        "prompt": "Atropine Sulfate — Pediatric",
+        "answer": "Maximum of 0.5mg",
+        "sourcePage": 281
+      },
+      {
+        "id": "10-07-d5",
+        "prompt": "Atropine Sulfate — Adult",
+        "answer": "2mg IV, IO, or IM",
+        "sourcePage": 281
+      },
+      {
+        "id": "10-07-d6",
+        "prompt": "Atropine Sulfate — Pediatric",
+        "answer": "0.01mg/kg IV, IO, or IM",
+        "sourcePage": 281
+      }
+    ],
+    "sourcePage": 281,
+    "educationDraft": true
+  },
+  {
+    "id": "10-08",
+    "protocolNumber": "10.08",
+    "name": "Buprenorphine (Belbuca®, Probuphine®, Buprenex®)",
+    "revised": "",
+    "drugClass": [
+      "Long-acting opioid receptor agonist"
+    ],
+    "routes": [
+      "SL",
+      "Indications:",
+      "Medication for opioid use disorder (MOUD) induction for patients with opioid use disorder currently",
+      "experiencing opioid withdrawal symptoms (COWS ≥ 5)",
+      "Medication for opioid use disorder (MOUD) for patients following acute opioid overdose with naloxone",
+      "reversal currently experiencing opioid withdrawal symptoms (COWS ≥ 5)",
+      "Contraindications:",
+      "Age < 18",
+      "Pregnancy",
+      "Chronic liver disease/cirrhosis",
+      "Altered mental status (e.g. GCS < 15, acute alcohol intoxication)",
+      "Administration:",
+      "Contact medical control prior to administration",
+      "Adult:",
+      "16mg sublingual (SL), do not chew, cut or swallow.",
+      "If COWS ≥ 5 after 15 minutes, readminister 8mg sublingual (SL)",
+      "Pediatric:",
+      "Not indicated for patients <18 years old",
+      "Special Notes:",
+      "Recommend pre-medication with ondansetron Zofran® 4-8mg IV/SL prior to buprenorphine administration",
+      "The film will not work properly if chewed or swallowed."
+    ],
+    "indications": [],
+    "contraindications": [
+      "Age < 18",
+      "Pregnancy",
+      "Chronic liver disease/cirrhosis",
+      "Altered mental status (e.g. GCS < 15, acute alcohol intoxication)",
+      "Administration:",
+      "Contact medical control prior to administration",
+      "Adult:",
+      "16mg sublingual (SL), do not chew, cut or swallow.",
+      "If COWS ≥ 5 after 15 minutes, readminister 8mg sublingual (SL)",
+      "Pediatric:",
+      "Not indicated for patients <18 years old",
+      "Special Notes:",
+      "Recommend pre-medication with ondansetron Zofran® 4-8mg IV/SL prior to buprenorphine administration",
+      "The film will not work properly if chewed or swallowed."
+    ],
+    "administrationText": "",
+    "specialNotes": [],
+    "doseCards": [],
+    "sourcePage": 282,
+    "educationDraft": true
+  },
+  {
+    "id": "10-09",
+    "protocolNumber": "10.09",
+    "name": "Calcium Chloride",
+    "revised": "",
+    "drugClass": [
+      "Electrolyte"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Used as antidote for calcium channel blocker overdose",
+      "Symptomatic hyperkalemia",
+      "Magnesium sulfate overdose"
+    ],
+    "contraindications": [
+      "Hypercalcemia"
+    ],
+    "administrationText": "Symptomatic Hyperkalemia\nAdult:\n▫ 5-10ml SLOW IV, IO (DO NOT exceed 2ml/minute)\n• Repeat, if necessary, after 5-10 minutes\nPediatric:\n▫ 0.2ml / kg SLOW IV, IO (DO NOT exceed 1ml/minute)\n• Repeat, if necessary, after 5-10 minutes\n• Pediatric dosage maxes at adult dose.\nCalcium Channel Blocker Overdose\nAdult:\n5-10ml SLOW IV, IO (DO NOT exceed 2ml/minute)\n• Repeat, if necessary, after 5-10 minutes\n• Higher doses are necessary for calcium channel blocker overdoses.\nPediatric:\n▫ 0.2ml / kg SLOW IV, IO (DO NOT exceed 1ml/minute)\n• Repeat, if necessary, after 5-10 minutes\n• Higher doses are necessary for calcium channel blocker overdoses.\n• Pediatric dosage maxes at adult dose.\nMagnesium Sulfate Overdose\nAdult:\n▫ 5-10ml SLOW IV, IO (DO NOT exceed 2ml/minute)\n• Repeat, if necessary, after 5-10 minutes\nPediatric:\n▫ 0.2ml / kg SLOW IV, IO (DO NOT exceed 1ml/minute)\n• Repeat, if necessary, after 5-10 minutes\n• Pediatric dosage maxes at adult dose.",
+    "specialNotes": [
+      "If heart is beating, rapid administration of calcium salts can produce bradycardia and/or arrest.",
+      "May increase cardiac irritability (i.e., PVCs), particularly in the presence of digitalis.",
+      "Local infiltration will cause tissue necrosis.",
+      "Contains 3x the amount of calcium versus Calcium Gluconate",
+      "Use largest IV possible"
+    ],
+    "doseCards": [
+      {
+        "id": "10-09-d1",
+        "prompt": "Calcium Chloride — Adult",
+        "answer": "5-10ml SLOW IV, IO (DO NOT exceed 2ml/minute)",
+        "sourcePage": 283
+      },
+      {
+        "id": "10-09-d2",
+        "prompt": "Calcium Chloride — Pediatric",
+        "answer": "0.2ml / kg SLOW IV, IO (DO NOT exceed 1ml/minute)",
+        "sourcePage": 283
+      },
+      {
+        "id": "10-09-d3",
+        "prompt": "Calcium Chloride — Adult",
+        "answer": "5-10ml SLOW IV, IO (DO NOT exceed 2ml/minute)",
+        "sourcePage": 283
+      },
+      {
+        "id": "10-09-d4",
+        "prompt": "Calcium Chloride — Pediatric",
+        "answer": "0.2ml / kg SLOW IV, IO (DO NOT exceed 1ml/minute)",
+        "sourcePage": 283
+      },
+      {
+        "id": "10-09-d5",
+        "prompt": "Calcium Chloride — Adult",
+        "answer": "5-10ml SLOW IV, IO (DO NOT exceed 2ml/minute)",
+        "sourcePage": 283
+      },
+      {
+        "id": "10-09-d6",
+        "prompt": "Calcium Chloride — Pediatric",
+        "answer": "0.2ml / kg SLOW IV, IO (DO NOT exceed 1ml/minute)",
+        "sourcePage": 283
+      }
+    ],
+    "sourcePage": 283,
+    "educationDraft": true
+  },
+  {
+    "id": "10-10",
+    "protocolNumber": "10.10",
+    "name": "Calcium Gluconate",
+    "revised": "",
+    "drugClass": [
+      "Electrolyte"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Used as antidote for calcium channel blocker overdoses.",
+      "Symptomatic hyperkalemia",
+      "Magnesium sulfate overdoses"
+    ],
+    "contraindications": [
+      "Hypercalcemia"
+    ],
+    "administrationText": "Symptomatic Hyperkalemia\nAdult:\n▫ 15-30ml SLOW IV, IO (DO NOT Exceed 2ml/min)\n• Repeat, if necessary, after 5-10 minutes\nPediatric:\n▫ 0.5ml/kg SLOW IV, IO (DO NOT exceed 1ml/min),\n• Repeat, if necessary, after 5-10 minutes\n• Pediatric dosage maxes at adult dose.\nCalcium Channel Blocker Overdose\nAdult:\n▫ 15-30ml SLOW IV, IO (DO NOT Exceed 2ml/min)\n• Repeat, if necessary, after 5-10 minutes\n• Higher doses are necessary for calcium channel blocker overdoses.\nPediatric:\n▫ 0.5ml / kg SLOW IV, IO (DO NOT exceed 1ml/min),\n• Repeat, if necessary, after 5-10 minutes\n• Higher doses are necessary for calcium channel blocker overdoses.\n• Pediatric dosage maxes at adult dose.\nMagnesium Sulfate Overdose\nAdult:\n▫ 15-30ml SLOW IV, IO (DO NOT Exceed 2ml/min)\n• Repeat, if necessary, after 5-10 minutes\nPediatric:\n▫ 0.5ml/kg SLOW IV, IO (DO NOT exceed 1ml/min),\n• Repeat, if necessary, after 5-10 minutes\n• Pediatric dosage maxes at adult dose.",
+    "specialNotes": [
+      "If heart is beating, rapid administration of calcium salts can produce bradycardia and/or arrest.",
+      "May increase cardiac irritability (i.e., PVC's), particularly in the presence of digitalis.",
+      "Local infiltration will cause tissue necrosis."
+    ],
+    "doseCards": [
+      {
+        "id": "10-10-d1",
+        "prompt": "Calcium Gluconate — Adult",
+        "answer": "15-30ml SLOW IV, IO (DO NOT Exceed 2ml/min)",
+        "sourcePage": 285
+      },
+      {
+        "id": "10-10-d2",
+        "prompt": "Calcium Gluconate — Pediatric",
+        "answer": "0.5ml/kg SLOW IV, IO (DO NOT exceed 1ml/min),",
+        "sourcePage": 285
+      },
+      {
+        "id": "10-10-d3",
+        "prompt": "Calcium Gluconate — Adult",
+        "answer": "15-30ml SLOW IV, IO (DO NOT Exceed 2ml/min)",
+        "sourcePage": 285
+      },
+      {
+        "id": "10-10-d4",
+        "prompt": "Calcium Gluconate — Pediatric",
+        "answer": "0.5ml / kg SLOW IV, IO (DO NOT exceed 1ml/min),",
+        "sourcePage": 285
+      },
+      {
+        "id": "10-10-d5",
+        "prompt": "Calcium Gluconate — Adult",
+        "answer": "15-30ml SLOW IV, IO (DO NOT Exceed 2ml/min)",
+        "sourcePage": 285
+      },
+      {
+        "id": "10-10-d6",
+        "prompt": "Calcium Gluconate — Pediatric",
+        "answer": "0.5ml/kg SLOW IV, IO (DO NOT exceed 1ml/min),",
+        "sourcePage": 285
+      }
+    ],
+    "sourcePage": 285,
+    "educationDraft": true
+  },
+  {
+    "id": "10-11",
+    "protocolNumber": "10.11",
+    "name": "Cefazolin (Ancef®, Kefzol®)",
+    "revised": "",
+    "drugClass": [
+      "Cephalosporin Antibiotic"
+    ],
+    "routes": [
+      "IV, IO, IM*"
+    ],
+    "indications": [
+      "Wound care, as allowed with MPD approved training under Appendix C."
+    ],
+    "contraindications": [
+      "Penicillin or cephalosporin allergy",
+      "Hypersensitivity"
+    ],
+    "administrationText": "Wound Care:\nAdult:\n▫ 1gm IV/IO every 8hrs\nPediatric (≤17 yo):\n▫ 25 mg/kg IV/IO up to 1gm, every 8hrs\n▫ Pediatric dosage maxes at adult dose.",
+    "specialNotes": [
+      "May be given slow IV push.",
+      "*May be given IM, however IV is best route"
+    ],
+    "doseCards": [
+      {
+        "id": "10-11-d1",
+        "prompt": "Cefazolin (Ancef®, Kefzol®) — Pediatric (≤17 yo)",
+        "answer": "25 mg/kg IV/IO up to 1gm, every 8hrs",
+        "sourcePage": 287
+      }
+    ],
+    "sourcePage": 287,
+    "educationDraft": true
+  },
+  {
+    "id": "10-12",
+    "protocolNumber": "10.12",
+    "name": "Dexamethasone (Decadron®)",
+    "revised": "",
+    "drugClass": [
+      "Corticosteroid"
+    ],
+    "routes": [
+      "IV, IO, IM, PO"
+    ],
+    "indications": [
+      "Asthma",
+      "COPD",
+      "Croup",
+      "Allergic Reaction/Anaphylaxis",
+      "Bronchiolitis"
+    ],
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "administrationText": "Asthma\nAdult:\n▫ 10mg IV, IO, IM\nPediatric:\n▫ 0.6mg/kg IM, IV, IO, PO\n▫ 0.6mg/kg of IV solution may be given PO in a strong tasting drink\n▫ Pediatric dose maxes at 10mg\nAllergic reaction/Anaphylaxis\nAdult\n▫ 10mg IV, IO, IM\nPediatric:\n▫ 0.6mg/kg IM, IV, IO, PO\n▫ 0.6mg/kg of IV solution may be given PO in a strong tasting drink\n▫ Pediatric dose maxes at 10mg\n Croup/Bronchiolitis\nAdult:\nNo approved dosing\nPediatric\n▫ 0.6mg/kg IM, IV, IO, PO\n▫ 0.6mg/kg of IV solution may be given PO in a strong tasting drink\n▫ Pediatric dose maxes at 10mg\nCOPD\nAdult\n10mg IV, IO, IM\nPediatric:\nNo approved dosing",
+    "specialNotes": [],
+    "doseCards": [
+      {
+        "id": "10-12-d1",
+        "prompt": "Dexamethasone (Decadron®) — Adult",
+        "answer": "10mg IV, IO, IM",
+        "sourcePage": 288
+      },
+      {
+        "id": "10-12-d2",
+        "prompt": "Dexamethasone (Decadron®) — Pediatric",
+        "answer": "0.6mg/kg IM, IV, IO, PO",
+        "sourcePage": 288
+      },
+      {
+        "id": "10-12-d3",
+        "prompt": "Dexamethasone (Decadron®) — Pediatric",
+        "answer": "0.6mg/kg of IV solution may be given PO in a strong tasting drink",
+        "sourcePage": 288
+      },
+      {
+        "id": "10-12-d4",
+        "prompt": "Dexamethasone (Decadron®) — Adult",
+        "answer": "10mg IV, IO, IM",
+        "sourcePage": 288
+      },
+      {
+        "id": "10-12-d5",
+        "prompt": "Dexamethasone (Decadron®) — Pediatric",
+        "answer": "0.6mg/kg IM, IV, IO, PO",
+        "sourcePage": 288
+      },
+      {
+        "id": "10-12-d6",
+        "prompt": "Dexamethasone (Decadron®) — Pediatric",
+        "answer": "0.6mg/kg of IV solution may be given PO in a strong tasting drink",
+        "sourcePage": 288
+      },
+      {
+        "id": "10-12-d7",
+        "prompt": "Dexamethasone (Decadron®) — Pediatric",
+        "answer": "0.6mg/kg IM, IV, IO, PO",
+        "sourcePage": 288
+      },
+      {
+        "id": "10-12-d8",
+        "prompt": "Dexamethasone (Decadron®) — Pediatric",
+        "answer": "0.6mg/kg of IV solution may be given PO in a strong tasting drink",
+        "sourcePage": 288
+      },
+      {
+        "id": "10-12-d9",
+        "prompt": "Dexamethasone (Decadron®) — Adult",
+        "answer": "10mg IV, IO, IM",
+        "sourcePage": 288
+      }
+    ],
+    "sourcePage": 288,
+    "educationDraft": true
+  },
+  {
+    "id": "10-13",
+    "protocolNumber": "10.13",
+    "name": "Dextrose",
+    "revised": "",
+    "drugClass": [
+      "Carbohydrate, nutrient, short-acting osmotic diuretic"
+    ],
+    "routes": [
+      "IV, IO, PO"
+    ],
+    "indications": [
+      "Symptomatic hypoglycemia.",
+      "Unconsciousness of unknown origin."
+    ],
+    "contraindications": [
+      "Intra-cranial bleeds.",
+      "Delirium tremens with dehydration.",
+      "Administration through the same infusion set as blood.",
+      "Unconscious (for oral Dextrose)."
+    ],
+    "administrationText": "Hypoglycemia:\nAdult:\n▫ Oral: 12-25gm of orally administered glucose\n▫ IV, IO: D10 12.5-25gm per dose\nPediatric:\n▫ Oral: 12-25gm of orally administered glucose\n▫ IV, IO: D10 2.5-5ml/kg up to adult dose.\nNeonatal:\n▫ Oral: Not approved due to age\n▫ D10 2.5-5ml/kg per dose up to adult dose",
+    "specialNotes": [
+      "This formulary entry is inclusive of both glucose and dextrose.",
+      "Attempts at documenting hypoglycemia via glucometry should be made before administration.",
+      "Must ensure patent IV, IO line and recheck patency during administration.",
+      "If patient also has suspected CVA, the lower starting dose should be used.",
+      "In the event of a medication shortage, D50 may be substituted for D10, with prior MPD notification."
+    ],
+    "doseCards": [
+      {
+        "id": "10-13-d1",
+        "prompt": "Dextrose — Pediatric",
+        "answer": "IV, IO: D10 2.5-5ml/kg up to adult dose.",
+        "sourcePage": 290
+      },
+      {
+        "id": "10-13-d2",
+        "prompt": "Dextrose — Neonatal",
+        "answer": "D10 2.5-5ml/kg per dose up to adult dose",
+        "sourcePage": 290
+      }
+    ],
+    "sourcePage": 290,
+    "educationDraft": true
+  },
+  {
+    "id": "10-14",
+    "protocolNumber": "10.14",
+    "name": "Diazepam (Valium ®)",
+    "revised": "",
+    "drugClass": [
+      "Benzodiazepine, anticonvulsant, antianxiety, sedative, muscle relaxant"
+    ],
+    "routes": [
+      "IV, IO, IM"
+    ],
+    "indications": [
+      "Control of seizures",
+      "Sedation for procedures",
+      "Reduction of anxiety/agitation"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "CNS depression"
+    ],
+    "administrationText": "Seizures\nAdults:\n▫ 2-10mg IV, IO, slow push\n▫ Maximum of 20mg\n▪ Pediatric:\n▫ ≤ 5 months:\n• Not indicated\n▫ 6 months to 5 yr:\n• 0.2mg/kg IV, IO, slow push\n• Maximum single dose: 2mg\n• Maximum total administration: 5mg\n▫ ≥ 6 yr:\n• 1mg IV, IO, slow push\n• Maximum single dose: 2mg\n• Maximum total administration: 10mg\n▪ NOTE: Dilute adult and pediatric doses 1:1 prior to administration\n▪ NOTE: HIGHER DOSES MAY BE REQUIRED for seizures and may be given AFTER MEDICAL\nCONTROL contact\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nAddress: Everett, WA, 98201\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.",
+    "specialNotes": [
+      "Diazepam is an approved substitute if lorazepam/midazolam is unavailable.",
+      "Maximum doses are not applicable for post-intubation management.",
+      "For IV pediatric administration, draw up dosed volume of medication and then dilute with saline to fill the",
+      "remainder of your syringe to allow for controlled slow IV administration.",
+      "Most likely to produce respiratory depression in patients who have taken other depressant drugs,",
+      "especially alcohol and barbiturates.",
+      "All pediatric dosages max at adult dose."
+    ],
+    "doseCards": [
+      {
+        "id": "10-14-d1",
+        "prompt": "Diazepam (Valium ®) — Adults",
+        "answer": "2-10mg IV, IO, slow push",
+        "sourcePage": 291
+      },
+      {
+        "id": "10-14-d2",
+        "prompt": "Diazepam (Valium ®) — Adults",
+        "answer": "Maximum of 20mg",
+        "sourcePage": 291
+      },
+      {
+        "id": "10-14-d3",
+        "prompt": "Diazepam (Valium ®) — 6 months to 5 yr",
+        "answer": "0.2mg/kg IV, IO, slow push",
+        "sourcePage": 291
+      },
+      {
+        "id": "10-14-d4",
+        "prompt": "Diazepam (Valium ®) — 6 months to 5 yr",
+        "answer": "Maximum single dose: 2mg",
+        "sourcePage": 291
+      },
+      {
+        "id": "10-14-d5",
+        "prompt": "Diazepam (Valium ®) — 6 months to 5 yr",
+        "answer": "Maximum total administration: 5mg",
+        "sourcePage": 291
+      },
+      {
+        "id": "10-14-d6",
+        "prompt": "Diazepam (Valium ®) — ≥ 6 yr",
+        "answer": "1mg IV, IO, slow push",
+        "sourcePage": 291
+      },
+      {
+        "id": "10-14-d7",
+        "prompt": "Diazepam (Valium ®) — ≥ 6 yr",
+        "answer": "Maximum single dose: 2mg",
+        "sourcePage": 291
+      },
+      {
+        "id": "10-14-d8",
+        "prompt": "Diazepam (Valium ®) — ≥ 6 yr",
+        "answer": "Maximum total administration: 10mg",
+        "sourcePage": 291
+      }
+    ],
+    "sourcePage": 291,
+    "educationDraft": true
+  },
+  {
+    "id": "10-15",
+    "protocolNumber": "10.15",
+    "name": "Diltiazem HCL (Cardizem®)",
+    "revised": "",
+    "drugClass": [
+      "Calcium Channel Blocker; Coronary Vasodilator, Antidysrhythmic"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Atrial Fibrillation or Atrial Flutter with rapid ventricular response",
+      "Paroxysmal Supraventricular Tachycardia"
+    ],
+    "contraindications": [
+      "Sick sinus syndrome except in the presence of a functioning ventricular pacemaker.",
+      "Patients with second-or third-degree AV block except in the presence of a functioning ventricular",
+      "pacemaker.",
+      "Patients with severe hypotension or cardiogenic shock.",
+      "Patients who have demonstrated hypersensitivity to the drug.",
+      "Patients with atrial fibrillation or atrial flutter associated with an accessory bypass tract such as in WPW",
+      "syndrome or short PR syndrome.",
+      "Patients with ventricular tachycardia."
+    ],
+    "administrationText": "Adult:\n▫ 0.25mg/kg as a bolus administered over 2 minutes (20mg is a reasonable dose for the average\npatient)\n• If response is inadequate, a second dose may be administered after 15 minutes at 0.35mg/kg\n• These are maximum doses-titrate to heart rate <120 bpm\nPediatric:\n▪ Not usually used. Contact MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.",
+    "specialNotes": [],
+    "doseCards": [
+      {
+        "id": "10-15-d1",
+        "prompt": "Diltiazem HCL (Cardizem®) — Adult",
+        "answer": "0.25mg/kg as a bolus administered over 2 minutes (20mg is a reasonable dose for the average",
+        "sourcePage": 293
+      },
+      {
+        "id": "10-15-d2",
+        "prompt": "Diltiazem HCL (Cardizem®) — Adult",
+        "answer": "If response is inadequate, a second dose may be administered after 15 minutes at 0.35mg/kg",
+        "sourcePage": 293
+      }
+    ],
+    "sourcePage": 293,
+    "educationDraft": true
+  },
+  {
+    "id": "10-16",
+    "protocolNumber": "10.16",
+    "name": "Diphenhydramine HCL (Benadryl®)",
+    "revised": "",
+    "drugClass": [
+      "Antihistamine, H1 blocker"
+    ],
+    "routes": [
+      "IV, IO, IM"
+    ],
+    "indications": [
+      "Allergic reactions",
+      "Anaphylaxis",
+      "Extrapyramidal Reaction",
+      "Motion sickness",
+      "Pediatric agitation"
+    ],
+    "contraindications": [
+      "Asthma (relative)"
+    ],
+    "administrationText": "Allergic Reaction/Anaphylaxis\nAdult:\n▫ 25-50mg slow IV, IO, IM\nPediatric:\n▫ 1-2mg/kg, slow IV, IO, IM\n• Pediatric dosage maxes at adult dose.\nMotion Sickness\nAdult:\n▫ 25-50mg, slow IV, IO, IM\nPediatric\n▫ 1-2mg/kg, slow IV, IO, IM\n• Pediatric doses maxes at adult dose\nMotion Sickness\nAdult:\n▫ 25-50mg, slow IV, IO, IM\nPediatric\n▫ 1-2mg/kg, slow IV, IO, IM\n▫ Pediatric doses maxes at adult dose\nPediatric Agitation\nPediatric\n▫ 1-2mg/kg, IM\n▫ Pediatric doses maxes at adult dose",
+    "specialNotes": [
+      "May have an immediate effect on dystonic reactions.",
+      "No early benefit in allergic reaction"
+    ],
+    "doseCards": [
+      {
+        "id": "10-16-d1",
+        "prompt": "Diphenhydramine HCL (Benadryl®) — Adult",
+        "answer": "25-50mg slow IV, IO, IM",
+        "sourcePage": 294
+      },
+      {
+        "id": "10-16-d2",
+        "prompt": "Diphenhydramine HCL (Benadryl®) — Pediatric",
+        "answer": "1-2mg/kg, slow IV, IO, IM",
+        "sourcePage": 294
+      },
+      {
+        "id": "10-16-d3",
+        "prompt": "Diphenhydramine HCL (Benadryl®) — Adult",
+        "answer": "25-50mg, slow IV, IO, IM",
+        "sourcePage": 294
+      },
+      {
+        "id": "10-16-d4",
+        "prompt": "Diphenhydramine HCL (Benadryl®) — Pediatric",
+        "answer": "1-2mg/kg, slow IV, IO, IM",
+        "sourcePage": 294
+      },
+      {
+        "id": "10-16-d5",
+        "prompt": "Diphenhydramine HCL (Benadryl®) — Adult",
+        "answer": "25-50mg, slow IV, IO, IM",
+        "sourcePage": 294
+      },
+      {
+        "id": "10-16-d6",
+        "prompt": "Diphenhydramine HCL (Benadryl®) — Pediatric",
+        "answer": "1-2mg/kg, slow IV, IO, IM",
+        "sourcePage": 294
+      },
+      {
+        "id": "10-16-d7",
+        "prompt": "Diphenhydramine HCL (Benadryl®) — Pediatric",
+        "answer": "1-2mg/kg, IM",
+        "sourcePage": 294
+      }
+    ],
+    "sourcePage": 294,
+    "educationDraft": true
+  },
+  {
+    "id": "10-17",
+    "protocolNumber": "10.17",
+    "name": "Droperidol (Inapsine®)",
+    "revised": "",
+    "drugClass": [
+      "Antipsychotic",
+      "Antiemetic"
+    ],
+    "routes": [
+      "IV, IO, IM"
+    ],
+    "indications": [
+      "Acute agitation, Psychosis",
+      "First-line antiemetic for:",
+      "gastroparesis,",
+      "cyclic vomiting, or",
+      "Cannabinoid Hyperemesis Syndrome"
+    ],
+    "contraindications": [
+      "Known or suspected prolonged QT",
+      "≤ 15 years of age",
+      "Hypotension",
+      "Suspected MI",
+      "Head-injured patient",
+      "Metabolic disorders (e.g., hypoglycemia, hypoxia).",
+      "WARNING: Use with caution in patients with bradycardia, cardiac disease, concurrent MAO inhibitor",
+      "therapy, Class I and Class III dysrhythmics or other drugs that prolong the QT interval and cause electrolyte",
+      "disturbances due to its adverse cardiovascular effects, e.g. QT prolongation, hypotension, tachycardia, and",
+      "torsades de pointes"
+    ],
+    "administrationText": "Vomiting:\nAdult:\n▫ 1.25-2.5mg IV, IM, may repeat x1\n• Consider lower dose for smaller adults/elderly\n• Obtain 12-lead EKG after administration of droperidol to evaluate for prolonged QTc\nPediatric ≤ 15\n▫ Not approved\nAcute psychosis\nAdult:\n▫ 5-10mg IV, IM, may repeat x1\n• Document a RASS score before and after administration\n• Consider lower dose for smaller adults/elderly\n• Obtain 12-lead EKG after administration of droperidol to evaluate for prolonged QTc\nPediatric ≤ 15\n▫ Not approved",
+    "specialNotes": [],
+    "doseCards": [
+      {
+        "id": "10-17-d1",
+        "prompt": "Droperidol (Inapsine®) — Adult",
+        "answer": "1.25-2.5mg IV, IM, may repeat x1",
+        "sourcePage": 296
+      },
+      {
+        "id": "10-17-d2",
+        "prompt": "Droperidol (Inapsine®) — Adult",
+        "answer": "5-10mg IV, IM, may repeat x1",
+        "sourcePage": 296
+      }
+    ],
+    "sourcePage": 296,
+    "educationDraft": true
+  },
+  {
+    "id": "10-18",
+    "protocolNumber": "10.18",
+    "name": "Epinephrine (Adrenaline® R)",
+    "revised": "",
+    "drugClass": [
+      "Sympathomimetic, epinephrine has alpha and beta1/beta2 effects acting as an inopressor."
+    ],
+    "routes": [
+      "IV, IO, IM, Nebulized"
+    ],
+    "indications": [
+      "Cardiac arrest",
+      "Shock/severe hypotension",
+      "Symptomatic bradycardia",
+      "Severe bronchospasm",
+      "Anaphylaxis",
+      "Croup"
+    ],
+    "contraindications": [
+      "None when indicated"
+    ],
+    "administrationText": "Cardiac Arrest\nAdult:\n▫ 1mg (1:10,000) IV, IO\n• May repeat every 3-5 minutes\nPediatric:\n▫ 0.01mg/kg (1:10,000) IV, IO:\n• May repeat every 3-5 minutes\nBradycardia\nMix 1mg of 1:1,000 in 250ml NS or D5W (4mcg/ml)\nAdults:\n▫ 2-10 mcg/min IV, IO\n• Titrate to a SBP > 90 mmHg and/or MAP > 60-65 mmHg\nPediatric:\n▫ 0.1-1 mcg/kg/min IV, IO\n• Max of 10mcg/kg\nBronchospasm/Anaphylaxis\nAdult:\n▫ 0.3-0.5mg (1:1,000) IM, anterolateral thigh preferred\n• 0.3mg if using epinephrine autoinjector\n• 0.5mg if using check-and-inject\n• EMT/AEMT: May repeat once, contact MEDICAL CONTROL for further doses\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n\n• Paramedic: Repeat PRN\n◦ Move to push-dose pressors or epinephrine infusion once IV established if continued\nhypotension/respiratory distress.\nPediatric ≤ 8 years old:\n▫ 0.01mg/kg (1:1000), IM\n• Standard pediatric dose is 0.15mg\n• EMT/AEMT: May repeat once, contact MEDICAL CONTROL for further doses\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n\n• Paramedic: Repeat PRN\nAnaphylactic shock\nMix 1mg of 1:1,000 in 250ml NS or D5W (4mcg/ml)\nAdults:\n▫ 2-10 mcg/min, IV, IO\n▫ Titrate to a SBP > 90 mmHg and/or MAP >60-65 mmHg\nPediatric:\n▫ 0.1-1 mcg/kg/min, IV, IO\n▫ Max of 10mcg/kg\nPush-Dose Pressor\nMix 1mL of 1:10,000 in 9ml of NS (10mcg/mL) OR mix 1mg 1:1000 in 100ml NS (10mcg/mL)\nAdult:\n▫ Administer 0.5-2mL SIVP/IO every 2-5 minutes as indicated\nPediatric:\n▫ No defined dosing. Contact MEDICAL CONTROL.\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n\nPush-Dose Epinephrine Notes: Mixing instructions:\n▫ Syringe must be immediately labeled \"Epi 10mcg/ml\"\n▫ Onset occurs over 1 minute\n▫ Duration lasts 5-10 minutes\nCroup\nUse 1:1,000 diluted in 3mL NS via nebulizer.\nAdult:\n▫ Not indicated\nPediatric:\n▫ ≥2 years: 0.5mg/kg per dose\n▫ <2 years: 0.25mg/kg per dose\n▫ Maximum of 5mg total administration",
+    "specialNotes": [
+      "Can increase cardiac workload and can precipitate angina and/or ACS in susceptible individuals.",
+      "Due to peripheral vasoconstriction, use with caution in patients with peripheral vascular insufficiency.",
+      "All pediatric dosages max at adult dose.",
+      "Never give cardiac arrest doses (1mg) to patients with a pulse.",
+      "There is no demonstrated benefit of high doses of epinephrine in survival to hospital discharge in adults",
+      "with intact neurological cerebral performance category (CPC) score.  Many studies have demonstrated",
+      "potential long-term harm. Consider judicious use of epinephrine in cardiac arrest, considering pretest",
+      "probability of survival.",
+      "Factors associated with likely good outcome include:",
+      "Immediate bystander CPR.",
+      "Shockable rhythm.",
+      "1st dose epinephrine within 10 minutes",
+      "Neurological activity during CPR."
+    ],
+    "doseCards": [
+      {
+        "id": "10-18-d1",
+        "prompt": "Epinephrine (Adrenaline® R) — Adult",
+        "answer": "1mg (1:10,000) IV, IO",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d2",
+        "prompt": "Epinephrine (Adrenaline® R) — 0.01mg/kg (1:10,000) IV, IO",
+        "answer": "Mix 1mg of 1:1,000 in 250ml NS or D5W (4mcg/ml)",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d3",
+        "prompt": "Epinephrine (Adrenaline® R) — Adults",
+        "answer": "2-10 mcg/min IV, IO",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d4",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric",
+        "answer": "0.1-1 mcg/kg/min IV, IO",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d5",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric",
+        "answer": "Max of 10mcg/kg",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d6",
+        "prompt": "Epinephrine (Adrenaline® R) — Adult",
+        "answer": "0.3-0.5mg (1:1,000) IM, anterolateral thigh preferred",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d7",
+        "prompt": "Epinephrine (Adrenaline® R) — Adult",
+        "answer": "0.3mg if using epinephrine autoinjector",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d8",
+        "prompt": "Epinephrine (Adrenaline® R) — Adult",
+        "answer": "0.5mg if using check-and-inject",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d9",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric ≤ 8 years old",
+        "answer": "0.01mg/kg (1:1000), IM",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d10",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric ≤ 8 years old",
+        "answer": "Standard pediatric dose is 0.15mg",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d11",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric ≤ 8 years old",
+        "answer": "Mix 1mg of 1:1,000 in 250ml NS or D5W (4mcg/ml)",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d12",
+        "prompt": "Epinephrine (Adrenaline® R) — Adults",
+        "answer": "2-10 mcg/min, IV, IO",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d13",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric",
+        "answer": "0.1-1 mcg/kg/min, IV, IO",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d14",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric",
+        "answer": "Max of 10mcg/kg",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d15",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric",
+        "answer": "Mix 1mL of 1:10,000 in 9ml of NS (10mcg/mL) OR mix 1mg 1:1000 in 100ml NS (10mcg/mL)",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d16",
+        "prompt": "Epinephrine (Adrenaline® R) — Adult",
+        "answer": "Administer 0.5-2mL SIVP/IO every 2-5 minutes as indicated",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d17",
+        "prompt": "Epinephrine (Adrenaline® R) — Push-Dose Epinephrine Notes: Mixing instructions",
+        "answer": "Syringe must be immediately labeled \"Epi 10mcg/ml\"",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d18",
+        "prompt": "Epinephrine (Adrenaline® R) — Push-Dose Epinephrine Notes: Mixing instructions",
+        "answer": "Use 1:1,000 diluted in 3mL NS via nebulizer.",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d19",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric",
+        "answer": "≥2 years: 0.5mg/kg per dose",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d20",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric",
+        "answer": "<2 years: 0.25mg/kg per dose",
+        "sourcePage": 297
+      },
+      {
+        "id": "10-18-d21",
+        "prompt": "Epinephrine (Adrenaline® R) — Pediatric",
+        "answer": "Maximum of 5mg total administration",
+        "sourcePage": 297
+      }
+    ],
+    "sourcePage": 297,
+    "educationDraft": true
+  },
+  {
+    "id": "10-19",
+    "protocolNumber": "10.19",
+    "name": "Etomidate (Amidate®)",
+    "revised": "",
+    "drugClass": [
+      "Sedative-Hypnotic"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Adjunct in rapid sequence intubation OVER 2 years of age",
+      "Procedural sedation",
+      "CPR-induced consciousness"
+    ],
+    "contraindications": [
+      "≤ 2-years-old",
+      "Pediatrics, at any age, with septic shock"
+    ],
+    "administrationText": "Intubation Induction\nAdult:\n▫ 0.3 mg/kg IV, IO over 30-60 seconds\n▫ Shock: 0.15 mg/kg IV, IO (half-dose)\nPediatric:\n▫ 0.3 mg/kg IV, IO over 30-60 seconds\n▫ Shock: 0.15 mg/kg IV, IO (half-dose)\nProcedural Sedation\nAdult\n▫ 5mg IV, IO push\n▫ May repeat once\n▫ Max dose 10 mg",
+    "specialNotes": [
+      "Onset of sedation-hypnosis is about 1 minute, with duration of sedation about 3-10 minutes. Recovery",
+      "time may be shortened by co-administration with IV Fentanyl."
+    ],
+    "doseCards": [
+      {
+        "id": "10-19-d1",
+        "prompt": "Etomidate (Amidate®) — Adult",
+        "answer": "0.3 mg/kg IV, IO over 30-60 seconds",
+        "sourcePage": 300
+      },
+      {
+        "id": "10-19-d2",
+        "prompt": "Etomidate (Amidate®) — Adult",
+        "answer": "Shock: 0.15 mg/kg IV, IO (half-dose)",
+        "sourcePage": 300
+      },
+      {
+        "id": "10-19-d3",
+        "prompt": "Etomidate (Amidate®) — Pediatric",
+        "answer": "0.3 mg/kg IV, IO over 30-60 seconds",
+        "sourcePage": 300
+      },
+      {
+        "id": "10-19-d4",
+        "prompt": "Etomidate (Amidate®) — Pediatric",
+        "answer": "Shock: 0.15 mg/kg IV, IO (half-dose)",
+        "sourcePage": 300
+      },
+      {
+        "id": "10-19-d5",
+        "prompt": "Etomidate (Amidate®) — Adult",
+        "answer": "5mg IV, IO push",
+        "sourcePage": 300
+      },
+      {
+        "id": "10-19-d6",
+        "prompt": "Etomidate (Amidate®) — Adult",
+        "answer": "Max dose 10 mg",
+        "sourcePage": 300
+      }
+    ],
+    "sourcePage": 300,
+    "educationDraft": true
+  },
+  {
+    "id": "10-20",
+    "protocolNumber": "10.20",
+    "name": "Famotidine (Pepcid®)",
+    "revised": "",
+    "drugClass": [
+      "Histamine Type-2 blocker"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Cutaneous symptoms of allergic reaction and/or anaphylaxis"
+    ],
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "administrationText": "Allergic Reaction/Anaphylaxis\nAdult:\n▫ 20mg IV, IO push\nPediatric:\n▫ 0.5mg/ kg IV, IO push\n▫ Pediatric dosage maxes at adult dose.",
+    "specialNotes": [
+      "Used in conjunction with an H-1 blocker (e.g. diphenhydramine or cetirizine)"
+    ],
+    "doseCards": [
+      {
+        "id": "10-20-d1",
+        "prompt": "Famotidine (Pepcid®) — Adult",
+        "answer": "20mg IV, IO push",
+        "sourcePage": 301
+      },
+      {
+        "id": "10-20-d2",
+        "prompt": "Famotidine (Pepcid®) — Pediatric",
+        "answer": "0.5mg/ kg IV, IO push",
+        "sourcePage": 301
+      }
+    ],
+    "sourcePage": 301,
+    "educationDraft": true
+  },
+  {
+    "id": "10-21",
+    "protocolNumber": "10.21",
+    "name": "Fentanyl",
+    "revised": "",
+    "drugClass": [
+      "Narcotic analgesic"
+    ],
+    "routes": [
+      "IV, IN, IM, IO"
+    ],
+    "indications": [
+      "Moderate-severe pain",
+      "Adjunct for procedural sedation",
+      "Delayed sequence intubation",
+      "Rapid sequence intubation",
+      "Post-intubation management"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Shock or volume depletion",
+      "Co-intoxicants",
+      "Caution in elderly patients"
+    ],
+    "administrationText": "Analgesia:\nAdult:\n▫ 50-100mcg IV, IM, IO, titrated to pain relief, maximum 5mcg/kg\n▫ Further doses per MEDICAL CONTROL approval.\nPediatric:\n▫ 1mcg/kg IV, IM, IO, titrated to pain relief, maximum 5mcg/kg\n• Dilute for more controlled administration\n▫ 1.5mcg/kg IN*, titrated to relief, maximum of 100mcg per dose\n• May repeat 0.5-1.5mcg/kg after 5-10 min, maximum 5mcg/kg\n• *Split dose between nares\n• *Account for dead space (see notes)\n• Further doses per MEDICAL CONTROL approval.\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n• Pediatric dosage maxes at adult dose.\nNeuroprotective Airway Procedure:\nAdult:\n▫ 3mcg/kg IV, IO, three minutes prior to intubation\nPediatric:\n▫ 3mcg/kg IV, IO, three minutes prior to intubation\nPost-intubation management\nAdult:\n▫ 50-100mcg, maximum dose 5mcg/kg\n▫ Further doses contact MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\nPediatric:\n▫ 1mcg/kg IV, IO, maximum dose 5mcg/kg\n▫ Further doses contact MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n▫ Pediatric dosage maxes at adult dose",
+    "specialNotes": [
+      "IN administration, administer via nasal atomizer with 1cc or 3cc syringe.",
+      "Add 0.1ml to the IN dosage when using an atomizer for deadspace. (ex. 0.3ml + 0.1ml = 0.4ml)",
+      "All patients receiving fentanyl for pain management shall receive a documented pain score before and",
+      "after analgesia."
+    ],
+    "doseCards": [
+      {
+        "id": "10-21-d1",
+        "prompt": "Fentanyl — Adult",
+        "answer": "50-100mcg IV, IM, IO, titrated to pain relief, maximum 5mcg/kg",
+        "sourcePage": 302
+      },
+      {
+        "id": "10-21-d2",
+        "prompt": "Fentanyl — Pediatric",
+        "answer": "1mcg/kg IV, IM, IO, titrated to pain relief, maximum 5mcg/kg",
+        "sourcePage": 302
+      },
+      {
+        "id": "10-21-d3",
+        "prompt": "Fentanyl — Pediatric",
+        "answer": "1.5mcg/kg IN*, titrated to relief, maximum of 100mcg per dose",
+        "sourcePage": 302
+      },
+      {
+        "id": "10-21-d4",
+        "prompt": "Fentanyl — Pediatric",
+        "answer": "May repeat 0.5-1.5mcg/kg after 5-10 min, maximum 5mcg/kg",
+        "sourcePage": 302
+      },
+      {
+        "id": "10-21-d5",
+        "prompt": "Fentanyl — Adult",
+        "answer": "3mcg/kg IV, IO, three minutes prior to intubation",
+        "sourcePage": 302
+      },
+      {
+        "id": "10-21-d6",
+        "prompt": "Fentanyl — Pediatric",
+        "answer": "3mcg/kg IV, IO, three minutes prior to intubation",
+        "sourcePage": 302
+      },
+      {
+        "id": "10-21-d7",
+        "prompt": "Fentanyl — Adult",
+        "answer": "50-100mcg, maximum dose 5mcg/kg",
+        "sourcePage": 302
+      },
+      {
+        "id": "10-21-d8",
+        "prompt": "Fentanyl — Pediatric",
+        "answer": "1mcg/kg IV, IO, maximum dose 5mcg/kg",
+        "sourcePage": 302
+      }
+    ],
+    "sourcePage": 302,
+    "educationDraft": true
+  },
+  {
+    "id": "10-22",
+    "protocolNumber": "10.22",
+    "name": "Hydroxocobalamin (Cyanokit®)",
+    "revised": "",
+    "drugClass": [
+      "Hydroxylated active form of Vitamin B12"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Known or suspected cyanide poisoning (reference Carbon Monoxide Poisoning Protocol)"
+    ],
+    "contraindications": [
+      "None"
+    ],
+    "administrationText": "CO Poisoning\nAdult:\n▫ 5gm over 15 min IV, IO repeat X1\nPediatric:\n▫ 70mg/kg single dose\n▫ Pediatric doses maxes at adult dose",
+    "specialNotes": [
+      "May experience transient hypertension"
+    ],
+    "doseCards": [
+      {
+        "id": "10-22-d1",
+        "prompt": "Hydroxocobalamin (Cyanokit®) — Pediatric",
+        "answer": "70mg/kg single dose",
+        "sourcePage": 304
+      }
+    ],
+    "sourcePage": 304,
+    "educationDraft": true
+  },
+  {
+    "id": "10-23",
+    "protocolNumber": "10.23",
+    "name": "Hydroxyzine (Vistaril®)",
+    "revised": "",
+    "drugClass": [
+      "Mild anxiolytic agent with sedation properties"
+    ],
+    "routes": [
+      "IM"
+    ],
+    "indications": [
+      "Control of nausea and vomiting"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Pregnancy"
+    ],
+    "administrationText": "Nausea and/or Vomiting\nAdult:\n▫ 25-100mg IM\nPediatric:\n▫ Not indicated",
+    "specialNotes": [
+      "None"
+    ],
+    "doseCards": [
+      {
+        "id": "10-23-d1",
+        "prompt": "Hydroxyzine (Vistaril®) — Adult",
+        "answer": "25-100mg IM",
+        "sourcePage": 305
+      }
+    ],
+    "sourcePage": 305,
+    "educationDraft": true
+  },
+  {
+    "id": "10-24",
+    "protocolNumber": "10.24",
+    "name": "Ipratropium Bromide (Atrovent©)",
+    "revised": "",
+    "drugClass": [
+      "Anticholinergic bronchodilator"
+    ],
+    "routes": [
+      "Nebulized"
+    ],
+    "indications": [
+      "Asthma",
+      "COPD"
+    ],
+    "contraindications": [
+      "Hypersensitivity to the drug"
+    ],
+    "administrationText": "Asthma & COPD\nAdult:\n▫ 0.5mg in 3ml over 5-15 minutes via nebulizer, do not repeat\nPediatric\n▫ 0.5mg in 3ml over 5-15 minutes via nebulizer, do not repeat",
+    "specialNotes": [
+      "Should be used with caution in patients with narrow-angle glaucoma.",
+      "In the prehospital setting ipratropium is always given as part of a Duoneb"
+    ],
+    "doseCards": [
+      {
+        "id": "10-24-d1",
+        "prompt": "Ipratropium Bromide (Atrovent©) — Adult",
+        "answer": "0.5mg in 3ml over 5-15 minutes via nebulizer, do not repeat",
+        "sourcePage": 306
+      },
+      {
+        "id": "10-24-d2",
+        "prompt": "Ipratropium Bromide (Atrovent©) — Pediatric",
+        "answer": "0.5mg in 3ml over 5-15 minutes via nebulizer, do not repeat",
+        "sourcePage": 306
+      }
+    ],
+    "sourcePage": 306,
+    "educationDraft": true
+  },
+  {
+    "id": "10-25",
+    "protocolNumber": "10.25",
+    "name": "Ketamine",
+    "revised": "",
+    "drugClass": [
+      "Anesthetic, analgesic, sedative"
+    ],
+    "routes": [
+      "IV, IM, IO"
+    ],
+    "indications": [
+      "Induction agent for intubation in patients over 2 years old",
+      "First-line induction agent in patients over 2 years old who are hypotensive or have bronchospasm",
+      "Post-intubation management sedation in patients greater than 3-months-old",
+      "Procedural sedation in patients greater than 1-year-old",
+      "Analgesia in patients greater than 1-year-old",
+      "Sedation in agitated patients 16 years old and greater",
+      "Seizure refractory to benzodiazepine administration",
+      "CPR-induced consciousness"
+    ],
+    "contraindications": [
+      "Absolute:",
+      "Hypersensitivity to ketamine",
+      "Children <3 months old",
+      "Relative:",
+      "Evidence of acute cerebral herniation (blown pupil/extensor posturing)",
+      "Known pheochromocytoma or in patients when an increase in BP would be of clinical concern.",
+      "Can increase toxic effect of tricyclic antidepressants and cocaine.",
+      "Schizophrenia (try to avoid in known schizophrenics)",
+      "Acute narrow-angle glaucoma or ocular injury, possible increase in intraocular pressure (IOP)",
+      "Adverse Effects",
+      "Laryngospasm, can lead to respiratory arrest requiring RSI (neuromuscular blockade necessary)",
+      "Increases salivation.",
+      "Possible increased intracranial pressure (ICP) and IOP",
+      "Cardiovascular: sympathomimetic response: hypertension, tachycardia, increased myocardial oxygen",
+      "demand",
+      "Mild cardiac depressant",
+      "Emergence reactions",
+      "Nausea and vomiting - very common, consider co-administration of antiemetic.",
+      "Rapid administration can cause apnea. Should give over 1 minute."
+    ],
+    "administrationText": "Analgesia adjunct:\nAdult\n▫ 0.1-0.3mg/kg, infused over 15 minutes\n• Consider initial dose of 0.1mg/kg-0.15mg/kg\n• May repeat every 20-30 minutes, be cautious of dose stacking.\n• May be used alone or as an adjunct to opiate analgesia\n• Max dose 3mg/kg, contact medical control for additional doses\nPediatric (≥ 1 yo)\n▫ 0.25mg/kg IV, IO over 1 minute\n• May repeat once\n• Can be used alone or as an adjunct to opiate analgesia\n• Max dose 3mg/kg, contact medical control for additional doses\nAdvanced airway management:\nAdult:\n▫ Induction:\n• 2mg/kg IV, IO over 1 minute\n◦ may repeat once\n▫ DSI:\n• 1mg/kg IV, IO over 1 minute\n◦ May repeat at 0.5mg/kg\n▫ Shock/hypotension (MAP <60):\n• 0.25 mg/kg aliquots, up to max dose of 1mg/kg.\n◦ Use lowest dose required to achieve sedation.\n▫ Post-intubation sedation:\n• 1-2mg/kg IV, IO\n◦ Repeat every 5-10 minutes as needed\nPediatric (≥2 years):\n▫ Induction:\n• 2mg/kg IV, IO over 1 minute\n◦ may repeat once\n▫ DSI:\n• 1mg/kg IV, IO over 1 minute\n◦ May repeat at 0.5mg/kg\n▫ Shock/hypotension (MAP <60):\n• 0.25 mg/kg aliquots, up to max dose of 1mg/kg.\n◦ Use lowest dose required to achieve sedation.\n▫ Post-intubation sedation:\n• 1-2mg/kg IV, IO\n◦ Repeat every 5-10 minutes as needed\nSeizure\nAdult:\n▫ 1mg/kg IV, IO over 1 minute\n• May repeat once at 1mg/kg\nPediatric\n▫ 1-3mg/kg IV, IO over 1 minute\n• May repeat every 3-5 minutes as needed\nProcedural Sedation\nAdult:\n▫ 1mg/kg IV, IO over 2 minutes\n• May repeat once at 1mg/kg\nPediatric (≥ 1 yo)\n▫ 1mg/kg IV, IO over 2 minutes\n• May repeat once at 1mg/kg\nAgitated patient sedation:\nAdult (≥ 16yo):\n▫ IM: 4mg/kg IM, once\n• Maximum IM single dose: 500mg\nPediatric (≤ 15yo):\n▫ Not indicated. Contact MEDICAL CONTROL.\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.",
+    "specialNotes": [
+      "All patients who receive ketamine must have continuous O2, ETCO2, and cardiac monitoring as soon as",
+      "possible",
+      "Emergence reaction: may be found with any dosing, more likely with higher doses. Characterized by",
+      "hallucinations, delusions, disorientation. Treat with low dose Benzodiazepines per formulary.",
+      "Agitated patient: agent of choice in markedly agitated, difficult-to-control patient.",
+      "Post-intubation management, consider for patients with hypotension or bronchospasm.",
+      "Maintains airway reflexes and respiratory drive.",
+      "100 mg/ml concentration may be given IM. Dilute 1:1 with D5W or saline to make 50 mg/ml for IV use.",
+      "All patients receiving ketamine for pain management shall receive a documented pain score before and",
+      "after analgesia."
+    ],
+    "doseCards": [
+      {
+        "id": "10-25-d1",
+        "prompt": "Ketamine — Adult",
+        "answer": "0.1-0.3mg/kg, infused over 15 minutes",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d2",
+        "prompt": "Ketamine — Adult",
+        "answer": "Consider initial dose of 0.1mg/kg-0.15mg/kg",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d3",
+        "prompt": "Ketamine — Adult",
+        "answer": "Max dose 3mg/kg, contact medical control for additional doses",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d4",
+        "prompt": "Ketamine — Pediatric (≥ 1 yo)",
+        "answer": "0.25mg/kg IV, IO over 1 minute",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d5",
+        "prompt": "Ketamine — Pediatric (≥ 1 yo)",
+        "answer": "Max dose 3mg/kg, contact medical control for additional doses",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d6",
+        "prompt": "Ketamine — Induction",
+        "answer": "2mg/kg IV, IO over 1 minute",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d7",
+        "prompt": "Ketamine — DSI",
+        "answer": "1mg/kg IV, IO over 1 minute",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d8",
+        "prompt": "Ketamine — DSI",
+        "answer": "May repeat at 0.5mg/kg",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d9",
+        "prompt": "Ketamine — Shock/hypotension (MAP <60)",
+        "answer": "0.25 mg/kg aliquots, up to max dose of 1mg/kg.",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d10",
+        "prompt": "Ketamine — Post-intubation sedation",
+        "answer": "1-2mg/kg IV, IO",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d11",
+        "prompt": "Ketamine — Induction",
+        "answer": "2mg/kg IV, IO over 1 minute",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d12",
+        "prompt": "Ketamine — DSI",
+        "answer": "1mg/kg IV, IO over 1 minute",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d13",
+        "prompt": "Ketamine — DSI",
+        "answer": "May repeat at 0.5mg/kg",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d14",
+        "prompt": "Ketamine — Shock/hypotension (MAP <60)",
+        "answer": "0.25 mg/kg aliquots, up to max dose of 1mg/kg.",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d15",
+        "prompt": "Ketamine — Post-intubation sedation",
+        "answer": "1-2mg/kg IV, IO",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d16",
+        "prompt": "Ketamine — Adult",
+        "answer": "1mg/kg IV, IO over 1 minute",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d17",
+        "prompt": "Ketamine — Adult",
+        "answer": "May repeat once at 1mg/kg",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d18",
+        "prompt": "Ketamine — Pediatric",
+        "answer": "1-3mg/kg IV, IO over 1 minute",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d19",
+        "prompt": "Ketamine — Adult",
+        "answer": "1mg/kg IV, IO over 2 minutes",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d20",
+        "prompt": "Ketamine — Adult",
+        "answer": "May repeat once at 1mg/kg",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d21",
+        "prompt": "Ketamine — Pediatric (≥ 1 yo)",
+        "answer": "1mg/kg IV, IO over 2 minutes",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d22",
+        "prompt": "Ketamine — Pediatric (≥ 1 yo)",
+        "answer": "May repeat once at 1mg/kg",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d23",
+        "prompt": "Ketamine — Adult (≥ 16yo)",
+        "answer": "IM: 4mg/kg IM, once",
+        "sourcePage": 307
+      },
+      {
+        "id": "10-25-d24",
+        "prompt": "Ketamine — Adult (≥ 16yo)",
+        "answer": "Maximum IM single dose: 500mg",
+        "sourcePage": 307
+      }
+    ],
+    "sourcePage": 307,
+    "educationDraft": true
+  },
+  {
+    "id": "10-26",
+    "protocolNumber": "10.26",
+    "name": "Ketorolac (Toradol®)",
+    "revised": "",
+    "drugClass": [
+      "Non-steroidal anti-inflammatory (NSAID)"
+    ],
+    "routes": [
+      "IV, IM"
+    ],
+    "indications": [
+      "Pain"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Asthma (Relative)",
+      "Renal Failure",
+      "Pregnancy"
+    ],
+    "administrationText": "Pain\nAdult:\n▫ 15mg IV, IM\nPediatric:\n▫ No indicated",
+    "specialNotes": [
+      "All patients receiving ketorolac for pain management shall receive a documented pain score before and",
+      "after analgesia",
+      "Patients will be evaluated by an ALS provider considering mechanism of injury. ALS providers may",
+      "downgrade to AEMT or EMT providers following these criteria:",
+      "The medic will monitor the patient for 10 minutes to watch for adverse reaction to the medications.",
+      "The ALS provider will document:",
+      "Time of admission, dose, route of administration",
+      "Lack of adverse effects",
+      "Pain scale before admission and at time of patient hand-off"
+    ],
+    "doseCards": [
+      {
+        "id": "10-26-d1",
+        "prompt": "Ketorolac (Toradol®) — Adult",
+        "answer": "15mg IV, IM",
+        "sourcePage": 310
+      }
+    ],
+    "sourcePage": 310,
+    "educationDraft": true
+  },
+  {
+    "id": "10-27",
+    "protocolNumber": "10.27",
+    "name": "Lidocaine HCL (Xylocaine®)",
+    "revised": "",
+    "drugClass": [
+      "Antidysrhythmic, local anesthetic"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Ventricular fibrillation/pulseless ventricular tachycardia",
+      "IO anesthesia"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "High-degree AV Blocks"
+    ],
+    "administrationText": "Ventricular Fibrillation/pulseless Ventricular Tachycardia\nAdult:\n▪ IV, IO Bolus:\n▫ 1-1.5mg/kg.\n▪ Repeat Bolus:\n▫ 0.5- 0.75 mg/kg\n▫ May repeat to a max dose of 3mg/kg.\nPediatric (Preferred over Amiodarone):\n▪ IV, IO Bolus:\n▫  0.5- 0.75 mg/kg\n▪ Repeat Bolus:\n▫  0.5- 0.75 mg/kg\n▫ May repeat to a max dose of 3mg/kg.\nIO Anesthesia\nAdult:\n▪ 40mg of 2% Lidocaine\nPediatric:\n▪ 0.5-1mg/kg, up to 40mg adult dose.",
+    "specialNotes": [
+      "For patients over 70 years of age, or with hepatic or renal failure, the loading dose remains the same, but",
+      "maintenance infusion is run at half the normal rate.",
+      "**Note that lidocaine is no longer indicated in the AHA adult/pediatric tachycardia with a pulse algorithm"
+    ],
+    "doseCards": [
+      {
+        "id": "10-27-d1",
+        "prompt": "Lidocaine HCL (Xylocaine®) — IV, IO Bolus",
+        "answer": "1-1.5mg/kg.",
+        "sourcePage": 311
+      },
+      {
+        "id": "10-27-d2",
+        "prompt": "Lidocaine HCL (Xylocaine®) — Repeat Bolus",
+        "answer": "0.5- 0.75 mg/kg",
+        "sourcePage": 311
+      },
+      {
+        "id": "10-27-d3",
+        "prompt": "Lidocaine HCL (Xylocaine®) — Repeat Bolus",
+        "answer": "May repeat to a max dose of 3mg/kg.",
+        "sourcePage": 311
+      },
+      {
+        "id": "10-27-d4",
+        "prompt": "Lidocaine HCL (Xylocaine®) — IV, IO Bolus",
+        "answer": "0.5- 0.75 mg/kg",
+        "sourcePage": 311
+      },
+      {
+        "id": "10-27-d5",
+        "prompt": "Lidocaine HCL (Xylocaine®) — Repeat Bolus",
+        "answer": "0.5- 0.75 mg/kg",
+        "sourcePage": 311
+      },
+      {
+        "id": "10-27-d6",
+        "prompt": "Lidocaine HCL (Xylocaine®) — Repeat Bolus",
+        "answer": "May repeat to a max dose of 3mg/kg.",
+        "sourcePage": 311
+      },
+      {
+        "id": "10-27-d7",
+        "prompt": "Lidocaine HCL (Xylocaine®) — Adult",
+        "answer": "40mg of 2% Lidocaine",
+        "sourcePage": 311
+      },
+      {
+        "id": "10-27-d8",
+        "prompt": "Lidocaine HCL (Xylocaine®) — Pediatric",
+        "answer": "0.5-1mg/kg, up to 40mg adult dose.",
+        "sourcePage": 311
+      }
+    ],
+    "sourcePage": 311,
+    "educationDraft": true
+  },
+  {
+    "id": "10-28",
+    "protocolNumber": "10.28",
+    "name": "Lorazepam (Ativan®)",
+    "revised": "",
+    "drugClass": [
+      "Benzodiazepine, anticonvulsant, antianxiety, sedative, muscle relaxant"
+    ],
+    "routes": [
+      "IV, IO, IM"
+    ],
+    "indications": [
+      "Control of seizures",
+      "Sedation for procedures",
+      "Reduction of anxiety/agitation (calming agent)",
+      "Alcohol withdrawal"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "CNS depression"
+    ],
+    "administrationText": "Seizures\nAdult:\n▫ 0.1mg/kg slow push, IV, IO, IM\n▫ Max total dose 8mg\nPediatric:\n▫ 0.05mg/kg IV, IO, IM\n▫ Max single dose: 2mg\n▫ Pediatric dosing maxes at adult dosing.\nNOTE: Dilute all doses 1:1 with isotonic fluid.\nNOTE: HIGHER DOSES MAY BE REQUIRED for seizures and may be given AFTER MEDICAL\nCONTROL contact\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nAddress: Everett, WA, 98201\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\nCalm\ning Agent\nAdult\n▫ 1-2mg slow push, IV, IO, IM\n• Max total dose 8mg\n▫ Significantly higher doses may be needed in alcohol withdrawal, contact MEDICAL CONTROL.\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n\nPediatric\n▫ No approved dosing, contract MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n\nNOTE: Dilute all doses 1:1 with isotonic fluid.",
+    "specialNotes": [
+      "Maximum doses are not applicable for post-intubation management.",
+      "Lorazepam must be diluted 1:1 with isotonic fluid for IV, IO, IM administration.",
+      "For IV pediatric administration, draw up dosed volume of medication and then dilute with saline to fill the",
+      "remainder of your syringe to allow for controlled slow IV administration.",
+      "Most likely to produce respiratory depression in patients who have taken other depressant drugs,",
+      "especially alcohol and barbiturates.",
+      "All pediatric dosages max at adult dose."
+    ],
+    "doseCards": [
+      {
+        "id": "10-28-d1",
+        "prompt": "Lorazepam (Ativan®) — Adult",
+        "answer": "0.1mg/kg slow push, IV, IO, IM",
+        "sourcePage": 312
+      },
+      {
+        "id": "10-28-d2",
+        "prompt": "Lorazepam (Ativan®) — Adult",
+        "answer": "Max total dose 8mg",
+        "sourcePage": 312
+      },
+      {
+        "id": "10-28-d3",
+        "prompt": "Lorazepam (Ativan®) — Pediatric",
+        "answer": "0.05mg/kg IV, IO, IM",
+        "sourcePage": 312
+      },
+      {
+        "id": "10-28-d4",
+        "prompt": "Lorazepam (Ativan®) — Pediatric",
+        "answer": "Max single dose: 2mg",
+        "sourcePage": 312
+      },
+      {
+        "id": "10-28-d5",
+        "prompt": "Lorazepam (Ativan®) — Adult",
+        "answer": "1-2mg slow push, IV, IO, IM",
+        "sourcePage": 312
+      },
+      {
+        "id": "10-28-d6",
+        "prompt": "Lorazepam (Ativan®) — Adult",
+        "answer": "Max total dose 8mg",
+        "sourcePage": 312
+      }
+    ],
+    "sourcePage": 312,
+    "educationDraft": true
+  },
+  {
+    "id": "10-29",
+    "protocolNumber": "10.29",
+    "name": "Magnesium Sulfate",
+    "revised": "",
+    "drugClass": [
+      "CNS depressant; antidysrhythmic; electrolyte"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Initial treatment of seizures associated with eclampsia.",
+      "First-line antidysrhythmic in the treatment of torsade de pointes.",
+      "Acute asthma refractory to other more conventional treatments, or when the effects of beta-adrenergic",
+      "medications contraindicate their use.",
+      "Tocolysis (the need to stop contractions). This should only be done under the direction of the primary",
+      "present Obstetrician and or MEDICAL CONTROL.",
+      "Contact",
+      "Online Medical Control",
+      "Phones: Online Medical Control: 425-404-5099",
+      "Note: Providence Everett - Colby Campus shall be contacted for all online medical",
+      "control requests, regardless of final destination."
+    ],
+    "contraindications": [
+      "Hypermagnesemia",
+      "Hypocalcemia",
+      "Anuria",
+      "Heart blocks"
+    ],
+    "administrationText": "Refractory VF/pVT\nAdults:\n▫ 2gm IV, IO push\nPediatric:\n▫ 25-50mg/kg, max of 2gm\nTorsades de Pointes\nAdult:\n▫ 2gm IV, IO push\nPediatric:\n▫ Contact MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n\nAtrial fibrillation/ Flutter\nAdult:\n2g in 250ml infused over 20 minutes\nEclampsia\nAdult:\n▫ No longer seizing: 4gm IV, IO in 100 or 250ml, infused over 20 minutes.\n▫ Active seizure: 6gm IV, IO in 100 or 250ml, infused over 20 minutes\nPediatric:\n▫ Contact MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\nAcute asthma:\nAdult:\n▫ 2g in 250ml infused over 20 minutes\nPediatric:\n▫ 50mg/kg up to adult dose, infused over 20 minutes\nTocolysis of Labor:\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\nAdult:\n▫ After MEDICAL CONTROL contact: 6 gm in 250ml, infused over 20 minutes\nPediatric:\n▫ Contact MEDICAL CONTROL",
+    "specialNotes": [
+      "Monitor deep tendon reflexes often, esp. in those patients receiving maintenance drip.",
+      "Respiratory depression/arrest, hypotension, areflexia may be caused by too rapid administration or",
+      "overdose of Magnesium Sulfate. These effects can be reversed by Calcium Gluconate 1 gram SIVP over 5-",
+      "10 minutes.",
+      "If no IV, IO access contact MEDICAL CONTROL for IM dosing",
+      "All pediatric dosages max out at adult dose"
+    ],
+    "doseCards": [
+      {
+        "id": "10-29-d1",
+        "prompt": "Magnesium Sulfate — Pediatric",
+        "answer": "25-50mg/kg, max of 2gm",
+        "sourcePage": 314
+      },
+      {
+        "id": "10-29-d2",
+        "prompt": "Magnesium Sulfate — Adult",
+        "answer": "2g in 250ml infused over 20 minutes",
+        "sourcePage": 314
+      },
+      {
+        "id": "10-29-d3",
+        "prompt": "Magnesium Sulfate — Adult",
+        "answer": "No longer seizing: 4gm IV, IO in 100 or 250ml, infused over 20 minutes.",
+        "sourcePage": 314
+      },
+      {
+        "id": "10-29-d4",
+        "prompt": "Magnesium Sulfate — Adult",
+        "answer": "Active seizure: 6gm IV, IO in 100 or 250ml, infused over 20 minutes",
+        "sourcePage": 314
+      },
+      {
+        "id": "10-29-d5",
+        "prompt": "Magnesium Sulfate — Adult",
+        "answer": "2g in 250ml infused over 20 minutes",
+        "sourcePage": 314
+      },
+      {
+        "id": "10-29-d6",
+        "prompt": "Magnesium Sulfate — Pediatric",
+        "answer": "50mg/kg up to adult dose, infused over 20 minutes",
+        "sourcePage": 314
+      },
+      {
+        "id": "10-29-d7",
+        "prompt": "Magnesium Sulfate — Adult",
+        "answer": "After MEDICAL CONTROL contact: 6 gm in 250ml, infused over 20 minutes",
+        "sourcePage": 314
+      }
+    ],
+    "sourcePage": 314,
+    "educationDraft": true
+  },
+  {
+    "id": "10-30",
+    "protocolNumber": "10.30",
+    "name": "Methylprednisolone (Medrol®, Solu-Medrol®)",
+    "revised": "",
+    "drugClass": [
+      "Glucocorticoid, anti-inflammatory, immunosuppressant"
+    ],
+    "routes": [
+      "IV, IO, IM"
+    ],
+    "indications": [
+      "Asthma",
+      "COPD Exacerbation",
+      "Anaphylaxis"
+    ],
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "administrationText": "All Indications\nAdult:\n▫ 2mg/kg IV, IO, IM up to 125mg\nPediatric:\n▫ 2mg/kg IV, IO, IM up to 125mg",
+    "specialNotes": [
+      "May be used as a substitute for dexamethasone with MPD approval"
+    ],
+    "doseCards": [
+      {
+        "id": "10-30-d1",
+        "prompt": "Methylprednisolone (Medrol®, Solu-Medrol®) — Adult",
+        "answer": "2mg/kg IV, IO, IM up to 125mg",
+        "sourcePage": 316
+      },
+      {
+        "id": "10-30-d2",
+        "prompt": "Methylprednisolone (Medrol®, Solu-Medrol®) — Pediatric",
+        "answer": "2mg/kg IV, IO, IM up to 125mg",
+        "sourcePage": 316
+      }
+    ],
+    "sourcePage": 316,
+    "educationDraft": true
+  },
+  {
+    "id": "10-31",
+    "protocolNumber": "10.31",
+    "name": "Midazolam (Versed®)",
+    "revised": "",
+    "drugClass": [
+      "Benzodiazepine, anticonvulsant, antianxiety, sedative, muscle relaxant"
+    ],
+    "routes": [
+      "IV, IO, IM, IN"
+    ],
+    "indications": [
+      "Control of seizures",
+      "Sedation for procedures",
+      "Reduction of anxiety/agitation (calming agent)",
+      "Post-intubation sedation"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "CNS depression"
+    ],
+    "administrationText": "Seizures:\nAdult:\n▫ IV, IO, IM, IN: 10 mg\n▫ DO NOT DELAY FOR IV ACCESS\n▫ Max single dose 10 mg\nPediatric:\n▫ IV/IO/IM: 0.1mg/kg\n• Maxes at adult dosing (40kg)\n• May repeat x1 for ages ≥7 mo\n▫ IN: See dosing chart below\nNOTE: HIGHER DOSES MAY BE REQUIRED for seizures and may be given AFTER MEDICAL\nCONTROL contact\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\nProcedural Sedation\nAdult:\n▫ 2-4mg IV, IO\n• Max single dose: 4mg\n◦ May repeat to achieve adequate sedation\n• Max total dose: 10mg\nPediatric:\n▫ 0.1mg/kg, IV,IO\n▫ Max single dose: 2.5 mg\n• May repeat to achieve adequate sedation\n▫ Max total dose: 10mg\nCalming Agent\nAdult\n▫ 1-2 mg IV, IO, IN, IM\n• Max single dose: 2mg\n• Max total dose: 10mg\n▫ Higher doses may be needed for alcohol withdrawal. Contact MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n\nPediatric\n▫ 0.2mg/kg IV, IO, IN, IM\n• Max single dose: 2mg\n• Max total dose: 10mg\nPost-Intubation Sedation\nAdult:\n▫ 5mg IV, IO\n▫ Repeat as needed, as long as vitals are stable\nPediatric:\n▫ 0.1mg/kg/dose, IV, IO\n• Maximum of 2.5mg per dose\n▫ Repeat as needed, as long as vitals are stable",
+    "specialNotes": [
+      "Maximum doses are not applicable for post-intubation management.",
+      "For IV pediatric administration, draw up dosed volume of medication and then dilute with saline to fill the",
+      "remainder of your syringe to allow for controlled slow IV administration.",
+      "Most likely to produce respiratory depression in patients who have taken other depressant drugs,",
+      "especially alcohol and barbiturates.",
+      "All pediatric dosages max at adult dose.",
+      "Midazolam is effective for sedation and amnesia but does not provide analgesia; fentanyl should be co-",
+      "administered for pain management.",
+      "Intranasal Midazolam Dosing Chart",
+      "Calculate appropriate dose of midazolam using the following formula:",
+      "Children: Total kg X 0.2mg =total mg dose of midazolam, maximum of 10mg.",
+      "Assess weight: children weight in kg = 10 + 2 (Age in years)",
+      "Adults over 50kg: 10mg (2ml) of midazolam."
+    ],
+    "doseCards": [
+      {
+        "id": "10-31-d1",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "IV, IO, IM, IN: 10 mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d2",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "Max single dose 10 mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d3",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "IV/IO/IM: 0.1mg/kg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d4",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "2-4mg IV, IO",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d5",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "Max single dose: 4mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d6",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "Max total dose: 10mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d7",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "0.1mg/kg, IV,IO",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d8",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "Max single dose: 2.5 mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d9",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "Max total dose: 10mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d10",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "1-2 mg IV, IO, IN, IM",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d11",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "Max single dose: 2mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d12",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "Max total dose: 10mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d13",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "0.2mg/kg IV, IO, IN, IM",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d14",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "Max single dose: 2mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d15",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "Max total dose: 10mg",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d16",
+        "prompt": "Midazolam (Versed®) — Adult",
+        "answer": "5mg IV, IO",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d17",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "0.1mg/kg/dose, IV, IO",
+        "sourcePage": 317
+      },
+      {
+        "id": "10-31-d18",
+        "prompt": "Midazolam (Versed®) — Pediatric",
+        "answer": "Maximum of 2.5mg per dose",
+        "sourcePage": 317
+      }
+    ],
+    "sourcePage": 317,
+    "educationDraft": true
+  },
+  {
+    "id": "10-32",
+    "protocolNumber": "10.32",
+    "name": "Morphine Sulfate",
+    "revised": "",
+    "drugClass": [
+      "Narcotic analgesic"
+    ],
+    "routes": [
+      "IV, IO, IM"
+    ],
+    "indications": [
+      "Analgesia for acute pain",
+      "Sedation for procedures"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Use with caution in patients with head injury, as this may mask changes in their clinical condition.",
+      "Do not use it in persons with respiratory difficulties because their respiratory drive might be depressed.",
+      "Hypotension is a relative contraindication to use.",
+      "Remember that some people will be hypotensive in response to pain itself. Be cautious.",
+      "In the presence of major blood loss, the body's compensatory mechanisms may be suppressed by the",
+      "use of morphine, and the hypotensive effect will become very prominent. Do not use it in these",
+      "circumstances."
+    ],
+    "administrationText": "Analgesia\nAdult:\n▫ 2-20mg slow IV, IO\n▫ Titrate to effect\nPediatric:\n▫ 0.05 mg/kg slow IV, IO, titrated to effect\n▫ Pediatric dosage maxes at adult dose.",
+    "specialNotes": [
+      "Often causes vomiting; administer slowly.",
+      "Contact MEDICAL CONTROL for orders above 20mg of Morphine.",
+      "Contact",
+      "Online Medical Control",
+      "Phones: Online Medical Control: 425-404-5099",
+      "Note: Providence Everett - Colby Campus shall be contacted for all online medical",
+      "control requests, regardless of final destination.",
+      "All patients receiving morphine for pain management shall receive a documented pain score before and",
+      "after analgesia."
+    ],
+    "doseCards": [
+      {
+        "id": "10-32-d1",
+        "prompt": "Morphine Sulfate — Adult",
+        "answer": "2-20mg slow IV, IO",
+        "sourcePage": 320
+      },
+      {
+        "id": "10-32-d2",
+        "prompt": "Morphine Sulfate — Pediatric",
+        "answer": "0.05 mg/kg slow IV, IO, titrated to effect",
+        "sourcePage": 320
+      }
+    ],
+    "sourcePage": 320,
+    "educationDraft": true
+  },
+  {
+    "id": "10-33",
+    "protocolNumber": "10.33",
+    "name": "Naloxone (Narcan®)",
+    "revised": "",
+    "drugClass": [
+      "Narcotic antagonist"
+    ],
+    "routes": [
+      "IN, IM, IV, IO"
+    ],
+    "indications": [
+      "Reversal of narcotic effects, particularly respiratory depression, due to opiate/opioid drugs.",
+      "For unconsciousness of unknown etiology to rule out (or reverse) narcotic depression."
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Absence of indication",
+      "Newborn born to or breastfed by a narcotic-addicted parent, or when this is in question"
+    ],
+    "administrationText": "All Indications\nAdult:\n▫ 0.4mg-4mg IN, IM, IV, IO\n▫ Titrate to respiratory effort/rate\n▫ May be repeated at 2 minutes if needed\n▫ EMTs IN max total dose is 4mg\nPediatric:\n▫ 0. 1mg/kg IN, IM, IV, IO\n▫ 2mg maximum single dose\n▫ May be repeated every 2 minutes PRN\n▫ Pediatric dosage maxes at adult dose\nNewborn\n▫ DO NOT ADMINISTER",
+    "specialNotes": [
+      "Correct hypoxia before administering Narcan",
+      "The patient may quickly become conscious and combative.",
+      "Post-naloxone shortness of breath/increased respiratory effort may indicate non-cardiogenic pulmonary",
+      "edema. Treat with non-invasive positive-pressure ventilation and escalate as needed per airway protocol",
+      "Narcotic drugs include agents such as Oxycontin, Morphine, Demerol®, Heroin, Dilaudid®, Percodan®,",
+      "Codeine, Lomotil®, Propoxyphene (Darvon), Pentazocine (Talwin"
+    ],
+    "doseCards": [
+      {
+        "id": "10-33-d1",
+        "prompt": "Naloxone (Narcan®) — Adult",
+        "answer": "0.4mg-4mg IN, IM, IV, IO",
+        "sourcePage": 321
+      },
+      {
+        "id": "10-33-d2",
+        "prompt": "Naloxone (Narcan®) — Adult",
+        "answer": "EMTs IN max total dose is 4mg",
+        "sourcePage": 321
+      },
+      {
+        "id": "10-33-d3",
+        "prompt": "Naloxone (Narcan®) — Pediatric",
+        "answer": "0. 1mg/kg IN, IM, IV, IO",
+        "sourcePage": 321
+      },
+      {
+        "id": "10-33-d4",
+        "prompt": "Naloxone (Narcan®) — Pediatric",
+        "answer": "2mg maximum single dose",
+        "sourcePage": 321
+      }
+    ],
+    "sourcePage": 321,
+    "educationDraft": true
+  },
+  {
+    "id": "10-34",
+    "protocolNumber": "10.34",
+    "name": "Nitroglycerin",
+    "revised": "",
+    "drugClass": [
+      "Anti-anginal agent/vascular dilating agent"
+    ],
+    "routes": [
+      "SL, IV, IO"
+    ],
+    "indications": [
+      "Chest pain, anginal pain",
+      "Congestive heart failure with severe pulmonary edema"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Severe hypotension",
+      "Recent or concurrent medication use of phosphodiesterase inhibitors"
+    ],
+    "administrationText": "Chest Pain/Angina\nAdult:\n▫ Sublingual: 0.3-0.4mg tablet/spray. Repeat every 3-5 minutes as needed.\nPediatric:\n▫ Not indicated.\nSympathetic Crashing Acute Pulmonary Edema (SCAPE):\nAdult:\n▫ SL: Four to five 0.4mg SL sprays/tablets every 3-5 minutes OR\n▫ IV, IO bolus: 600-1000mcg over 2 minutes, followed by\n▫ IV, IO infusion: 100-400 mcg/min\n• Titrate off when systolic BP reaches 120 or symptoms improve.\nPediatric:\n▫ Not indicated",
+    "specialNotes": [
+      "Common side effects may include throbbing headache, flushing, dizziness, and burning under the tongue",
+      "(if these side effects are noted, the pills may be assumed potent, not outdated).",
+      "Less common effect: marked hypotension, particularly orthostatic.",
+      "Paramedics should use their supply of Nitroglycerin, not the patient's.",
+      "Use with caution in patients who have not previously received Nitroglycerin.",
+      "Generalized vasodilation may cause profound hypotension and reflex tachycardia.",
+      "NTG tablets lose potency easily, should be stored in a dark glass container with a tight lid, and not",
+      "exposed to heat. NTG spray does not have this problem.",
+      "Use only with MEDICAL CONTROL on patients with systolic BP below 110 mmHg.",
+      "Contact",
+      "Online Medical Control",
+      "Phones: Online Medical Control: 425-404-5099",
+      "Address: Everett, WA, 98201",
+      "Note: Providence Everett - Colby Campus shall be contacted for all online medical",
+      "control requests, regardless of final destination."
+    ],
+    "doseCards": [
+      {
+        "id": "10-34-d1",
+        "prompt": "Nitroglycerin — Adult",
+        "answer": "Sublingual: 0.3-0.4mg tablet/spray. Repeat every 3-5 minutes as needed.",
+        "sourcePage": 322
+      },
+      {
+        "id": "10-34-d2",
+        "prompt": "Nitroglycerin — Adult",
+        "answer": "SL: Four to five 0.4mg SL sprays/tablets every 3-5 minutes OR",
+        "sourcePage": 322
+      },
+      {
+        "id": "10-34-d3",
+        "prompt": "Nitroglycerin — Adult",
+        "answer": "IV, IO bolus: 600-1000mcg over 2 minutes, followed by",
+        "sourcePage": 322
+      },
+      {
+        "id": "10-34-d4",
+        "prompt": "Nitroglycerin — Adult",
+        "answer": "IV, IO infusion: 100-400 mcg/min",
+        "sourcePage": 322
+      }
+    ],
+    "sourcePage": 322,
+    "educationDraft": true
+  },
+  {
+    "id": "10-35",
+    "protocolNumber": "10.35",
+    "name": "Norepinephrine (Levophed®)",
+    "revised": "",
+    "drugClass": [
+      "Potent vasoconstrictor (pure alpha agonist)"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Severe hypotension, shock",
+      "Spinal/Neurogenic Shock",
+      "Septic Shock",
+      "Cardiogenic Shock"
+    ],
+    "contraindications": [
+      "None in the above indicated setting."
+    ],
+    "administrationText": "Shock/Hypotension, all causes:\nAdult (≥ 14 yo):\n▫ 8-20 mcg/min IV, IO\n▫ Maintain BP between 90-110, MAP ≥65, and to maintain LOC, HR, and end-organ perfusion.\n▫ Once stable, titrate down to 2-4 mcg/min if BP allows.\nPediatric (≤ 13 yo):\n▫ If using IV pump:\n• 0.1-2 mcg/kg/minute\n• Titrate to MAP ≥ 65, LOC, and end-organ perfusion.\n▫ If not using IV pump:\n• Do not use, no safe dosing without pump",
+    "specialNotes": [
+      "Providers should establish systolic BP 90-110, or MAP >65mmHg.",
+      "Use large peripheral vein for administration",
+      "Standard concentration is 16mcg/ml (4mg/250ml D5W)"
+    ],
+    "doseCards": [
+      {
+        "id": "10-35-d1",
+        "prompt": "Norepinephrine (Levophed®) — Adult (≥ 14 yo)",
+        "answer": "8-20 mcg/min IV, IO",
+        "sourcePage": 324
+      },
+      {
+        "id": "10-35-d2",
+        "prompt": "Norepinephrine (Levophed®) — Adult (≥ 14 yo)",
+        "answer": "Once stable, titrate down to 2-4 mcg/min if BP allows.",
+        "sourcePage": 324
+      },
+      {
+        "id": "10-35-d3",
+        "prompt": "Norepinephrine (Levophed®) — If using IV pump",
+        "answer": "0.1-2 mcg/kg/minute",
+        "sourcePage": 324
+      }
+    ],
+    "sourcePage": 324,
+    "educationDraft": true
+  },
+  {
+    "id": "10-36",
+    "protocolNumber": "10.36",
+    "name": "Olanzapine (Zyprexa®)",
+    "revised": "",
+    "drugClass": [
+      "Second-generation antipsychotic"
+    ],
+    "routes": [
+      "ODT, IM"
+    ],
+    "indications": [
+      "Psychosis, hallucinations, delusions",
+      "Acute mania"
+    ],
+    "contraindications": [
+      "History of dystonia",
+      "Age 15 or younger",
+      "Dementia related psychosis",
+      "Autism related agitation",
+      "Pregnancy"
+    ],
+    "administrationText": "Adult: ≥ 16\n▪ 10mg IM or ODT\n▪ May repeat once after 20 minutes\nPediatric ≤15 yo\n▪ NO APPROVED DOSING",
+    "specialNotes": [],
+    "doseCards": [
+      {
+        "id": "10-36-d1",
+        "prompt": "Olanzapine (Zyprexa®) — Adult: ≥ 16",
+        "answer": "10mg IM or ODT",
+        "sourcePage": 325
+      }
+    ],
+    "sourcePage": 325,
+    "educationDraft": true
+  },
+  {
+    "id": "10-37",
+    "protocolNumber": "10.37",
+    "name": "Oxygen",
+    "revised": "",
+    "drugClass": [
+      "Gas"
+    ],
+    "routes": [
+      "Inhalation"
+    ],
+    "indications": [
+      "Suspected hypoxia or respiratory distress from any cause",
+      "Acute chest pain in which myocardial infarction is suspected.",
+      "Shock (decreased oxygenation of tissue) from any cause",
+      "Trauma",
+      "Carbon monoxide poisoning"
+    ],
+    "contraindications": [
+      "None"
+    ],
+    "administrationText": "All indications:\nAdult:\n▫ Low flow (NC 1-2 lpm) - Patients with chronic lung disease with unusual dyspnea or other problems\n(see below)\n▫ Moderate flow (NC 4-6 lpm) - Titrated to level of distress. PaO2 >94%\n▫ High flow (NRB 10-25 lpm) - Severe respiratory distress, either medical or traumatic, shock, or at\nprovider's discretion\n▫ Flush rate (NRB/BVM 45-60 lpm) - Pre-intubation, or at provider's discretion\nPediatric:\n▫ Low flow (NC 1-2L / Min) - Patients with chronic lung disease with unusual dyspnea or other problems\n(see below)\n▫ Moderate flow (NC 4-6L / Min) - Titrated to level of distress. PaO2 >94%\n▫ High flow (NRB 10-25L / Min) - Severe respiratory distress, either medical or traumatic, shock, or at\nprovider's discretion.\n▫ Flush rate (NRB/BVM 45-60 lpm) - Pre-intubation, or at provider's discretion",
+    "specialNotes": [
+      "If the patient is not breathing adequately on their own, the treatment of choice is assisted ventilation, not",
+      "just supplemental O2.",
+      "A very small percentage of patients with chronic lung disease lack sensitivity to carbon dioxide levels and",
+      "breathe only because of their hypoxic drive. Administration of O2 MAY depress their respiratory drive. DO",
+      "NOT WITHHOLD OXYGEN IN CRITICALLY ILL PATIENTS BECAUSE OF THIS POSSIBILITY. BE",
+      "PREPARED TO ASSIST VENTILATION IF NEEDED. An increasing upward trend in patient’s capnography",
+      "may be determinate of pending respiratory depression due to supplemental oxygen.",
+      "Oxygen toxicity (overdose) is not a hazard from acute administration.",
+      "Nasal prongs work equally well on nose and mouth breathers.",
+      "Giving 100% Oxygen to all patients is unnecessary.",
+      "If the patient has 96% O2 saturation and is in no acute distress, an NRB is not necessary.",
+      "Titrate O2 administration to normal O2 saturation."
+    ],
+    "doseCards": [
+      {
+        "id": "10-37-d1",
+        "prompt": "Oxygen — Adult",
+        "answer": "Low flow (NC 1-2 lpm) - Patients with chronic lung disease with unusual dyspnea or other problems",
+        "sourcePage": 326
+      },
+      {
+        "id": "10-37-d2",
+        "prompt": "Oxygen — Adult",
+        "answer": "Moderate flow (NC 4-6 lpm) - Titrated to level of distress. PaO2 >94%",
+        "sourcePage": 326
+      },
+      {
+        "id": "10-37-d3",
+        "prompt": "Oxygen — Adult",
+        "answer": "High flow (NRB 10-25 lpm) - Severe respiratory distress, either medical or traumatic, shock, or at",
+        "sourcePage": 326
+      },
+      {
+        "id": "10-37-d4",
+        "prompt": "Oxygen — Adult",
+        "answer": "Flush rate (NRB/BVM 45-60 lpm) - Pre-intubation, or at provider's discretion",
+        "sourcePage": 326
+      },
+      {
+        "id": "10-37-d5",
+        "prompt": "Oxygen — Pediatric",
+        "answer": "Flush rate (NRB/BVM 45-60 lpm) - Pre-intubation, or at provider's discretion",
+        "sourcePage": 326
+      }
+    ],
+    "sourcePage": 326,
+    "educationDraft": true
+  },
+  {
+    "id": "10-38",
+    "protocolNumber": "10.38",
+    "name": "Ondansetron (Zofran®)",
+    "revised": "",
+    "drugClass": [
+      "Serotonin receptor antagonist; antiemetic"
+    ],
+    "routes": [
+      "OTD, IV, IM, IO"
+    ],
+    "indications": [
+      "Nausea",
+      "Vomiting"
+    ],
+    "contraindications": [
+      "Known hypersensitivity.",
+      "Known prolonged QT interval."
+    ],
+    "administrationText": "Nausea/Vomiting\nAdult:\n▫ IV, IO, IM: 4mg-8mg, may repeat once\n▫ ODT: 4mg, may repeat once\nPediatric 1-12yr:\n▫ IV, IO, IM: 2mg, may repeat once\n▫ ODT: ≥ 6 months 0.1mg/kg, up to 4mg, may repeat once",
+    "specialNotes": [
+      "Works best with nausea associated with GI issues and medication reactions, such as opiates."
+    ],
+    "doseCards": [
+      {
+        "id": "10-38-d1",
+        "prompt": "Ondansetron (Zofran®) — Adult",
+        "answer": "IV, IO, IM: 4mg-8mg, may repeat once",
+        "sourcePage": 328
+      },
+      {
+        "id": "10-38-d2",
+        "prompt": "Ondansetron (Zofran®) — Adult",
+        "answer": "ODT: 4mg, may repeat once",
+        "sourcePage": 328
+      },
+      {
+        "id": "10-38-d3",
+        "prompt": "Ondansetron (Zofran®) — Pediatric 1-12yr",
+        "answer": "IV, IO, IM: 2mg, may repeat once",
+        "sourcePage": 328
+      },
+      {
+        "id": "10-38-d4",
+        "prompt": "Ondansetron (Zofran®) — Pediatric 1-12yr",
+        "answer": "ODT: ≥ 6 months 0.1mg/kg, up to 4mg, may repeat once",
+        "sourcePage": 328
+      }
+    ],
+    "sourcePage": 328,
+    "educationDraft": true
+  },
+  {
+    "id": "10-39",
+    "protocolNumber": "10.39",
+    "name": "Pralidoxime (2-PAM®)",
+    "revised": "",
+    "drugClass": [
+      "Cholinesterase reactivator"
+    ],
+    "routes": [
+      "IV, IM"
+    ],
+    "indications": [
+      "Organophosphate toxicity",
+      "Nerve agent exposure"
+    ],
+    "contraindications": [
+      "None in the emergent setting"
+    ],
+    "administrationText": "Organophosphate Toxicity/Nerve Agent Exposure\nAdult:\n▫ 600mg IM, repeated as needed\n▫ 1-2g in 100ml over 20-30 minutes\nPediatric:\n▫ No approved dosing",
+    "specialNotes": [
+      "Pralidoxime is typically packaged as an autoinjector with atropine or atropine and diazepam."
+    ],
+    "doseCards": [
+      {
+        "id": "10-39-d1",
+        "prompt": "Pralidoxime (2-PAM®) — Adult",
+        "answer": "600mg IM, repeated as needed",
+        "sourcePage": 329
+      },
+      {
+        "id": "10-39-d2",
+        "prompt": "Pralidoxime (2-PAM®) — Adult",
+        "answer": "1-2g in 100ml over 20-30 minutes",
+        "sourcePage": 329
+      }
+    ],
+    "sourcePage": 329,
+    "educationDraft": true
+  },
+  {
+    "id": "10-40",
+    "protocolNumber": "10.40",
+    "name": "Procainamide Hydrochloride (Pronestyl®)",
+    "revised": "",
+    "drugClass": [
+      "Antidysrhythmic"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Sustained ventricular tachycardia (with pulse) refractory to Lidocaine.",
+      "Management of ventricular dysrhythmias when Lidocaine contraindicated."
+    ],
+    "contraindications": [
+      "Pre-existing QT prolongation or torsade de pointes",
+      "High AV blocks unless a pacemaker is in place."
+    ],
+    "administrationText": "Antidysrhythmic:\nAdult Bolus:\n▫ 20-30 mg/min IV, IO until:\n• The dysrhythmia is suppressed.\n• Hypotension ensues.\n• The QRS is widened by 50% of its original width.\n• A total of 17mg/kg of the medication has been administered.\nAdult infusion:\n▫ 1gm in 250ml D5W or NS at 1 to 4mg per minute\nPediatric:\n▫ Not currently recommended or given in prehospital settings.",
+    "specialNotes": [
+      "May cause severe hypotension, bradycardia, and heart blocks.",
+      "Nausea and vomiting are common side effects."
+    ],
+    "doseCards": [
+      {
+        "id": "10-40-d1",
+        "prompt": "Procainamide Hydrochloride (Pronestyl®) — 20-30 mg/min IV, IO until",
+        "answer": "A total of 17mg/kg of the medication has been administered.",
+        "sourcePage": 330
+      },
+      {
+        "id": "10-40-d2",
+        "prompt": "Procainamide Hydrochloride (Pronestyl®) — Adult infusion",
+        "answer": "1gm in 250ml D5W or NS at 1 to 4mg per minute",
+        "sourcePage": 330
+      }
+    ],
+    "sourcePage": 330,
+    "educationDraft": true
+  },
+  {
+    "id": "10-41",
+    "protocolNumber": "10.41",
+    "name": "Promethazine (Phenergan®)",
+    "revised": "",
+    "drugClass": [
+      "Antiemetic"
+    ],
+    "routes": [
+      "PO, IM, IV, IO, PR"
+    ],
+    "indications": [
+      "Treatment and prevention of nausea and vomiting."
+    ],
+    "contraindications": [
+      "Hypersensitivity to phenothiazines",
+      "Comatose patients",
+      "CNS depression due to drug/medication ingestion",
+      "Children < 2yr old, or critically ill or dehydrated.",
+      "Lactation"
+    ],
+    "administrationText": "Vomiting:\nAdult:\n▫ 12.5-25mg PO, IM, IV, or PR\nPediatric ≥ 8 yo:\n▫ 0.25 mg/kg PO, IM, or PR, up to adult dose.\nPediatric < 8 yo:\n▫ Do not use",
+    "specialNotes": [
+      "Use should be limited to prolonged vomiting in children. Ondansetron is a better choice.",
+      "Use cautiously in the elderly, in patients with hypertension, epilepsy, sleep apnea, cardiovascular disease,",
+      "impairment of the liver, and pregnancy.",
+      "May cause marked drowsiness."
+    ],
+    "doseCards": [
+      {
+        "id": "10-41-d1",
+        "prompt": "Promethazine (Phenergan®) — Adult",
+        "answer": "12.5-25mg PO, IM, IV, or PR",
+        "sourcePage": 331
+      },
+      {
+        "id": "10-41-d2",
+        "prompt": "Promethazine (Phenergan®) — Pediatric ≥ 8 yo",
+        "answer": "0.25 mg/kg PO, IM, or PR, up to adult dose.",
+        "sourcePage": 331
+      }
+    ],
+    "sourcePage": 331,
+    "educationDraft": true
+  },
+  {
+    "id": "10-42",
+    "protocolNumber": "10.42",
+    "name": "Proparacaine (Opthaine®, AlcaineR®)",
+    "revised": "",
+    "drugClass": [
+      "Topical/local ophthalmic anesthetic"
+    ],
+    "routes": [
+      "Ocular drops"
+    ],
+    "indications": [
+      "Ocular pain relief prior to irrigation of the eyes"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Known or suspected trauma that may have produced intraocular injury."
+    ],
+    "administrationText": "Ocular Numbing\nAdult:\n▫ 1-2 drops of 0.5% solution in affected eye. May repeat as needed.\nPeds:\n▫ 1-2 drops of 0.5% solution in affected eye. May repeat as needed.",
+    "specialNotes": [
+      "Assess visual acuity as soon as possible.",
+      "Not an EMT drug."
+    ],
+    "doseCards": [
+      {
+        "id": "10-42-d1",
+        "prompt": "Proparacaine (Opthaine®, AlcaineR®) — Adult",
+        "answer": "1-2 drops of 0.5% solution in affected eye. May repeat as needed.",
+        "sourcePage": 332
+      },
+      {
+        "id": "10-42-d2",
+        "prompt": "Proparacaine (Opthaine®, AlcaineR®) — Peds",
+        "answer": "1-2 drops of 0.5% solution in affected eye. May repeat as needed.",
+        "sourcePage": 332
+      }
+    ],
+    "sourcePage": 332,
+    "educationDraft": true
+  },
+  {
+    "id": "10-43",
+    "protocolNumber": "10.43",
+    "name": "Rocuronium",
+    "revised": "",
+    "drugClass": [
+      "Neuromuscular Blockade Agent (Non-Depolarizing)"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "To facilitate intubation",
+      "Terminating laryngospasm",
+      "Muscle relaxation"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Patients with myasthenia gravis may experience extremely prolonged paralysis times"
+    ],
+    "administrationText": "Paralysis\nAdult:\n▫ 1.2-2 mg/kg IV, IO\nPediatric:\n▫ 1.2-2 mg/kg IV, IO",
+    "specialNotes": [
+      "Onset of action is 1 minute.",
+      "Duration of paralysis is approximately 30 minutes."
+    ],
+    "doseCards": [
+      {
+        "id": "10-43-d1",
+        "prompt": "Rocuronium — Adult",
+        "answer": "1.2-2 mg/kg IV, IO",
+        "sourcePage": 333
+      },
+      {
+        "id": "10-43-d2",
+        "prompt": "Rocuronium — Pediatric",
+        "answer": "1.2-2 mg/kg IV, IO",
+        "sourcePage": 333
+      }
+    ],
+    "sourcePage": 333,
+    "educationDraft": true
+  },
+  {
+    "id": "10-44",
+    "protocolNumber": "10.44",
+    "name": "Sodium Bicarbonate",
+    "revised": "",
+    "drugClass": [
+      "Alkalinizing agent"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Crush Injury",
+      "Hyperkalemia",
+      "Overdose of tricyclic antidepressants",
+      "Adjunct in other causes of metabolic acidosis, such as near-drowning or diabetic ketoacidosis, only with",
+      "online MEDICAL CONTROL.",
+      "Contact",
+      "Online Medical Control",
+      "Phones: Online Medical Control: 425-404-5099",
+      "Note: Providence Everett - Colby Campus shall be contacted for all online medical",
+      "control requests, regardless of final destination."
+    ],
+    "contraindications": [
+      "Suspected metabolic or respiratory alkalosis."
+    ],
+    "administrationText": "Crush Injury\nAdult:\n▫ During every 1 hour entrapped: 1 mEq/kg IV, IO, max 50 mEq\n▫ Immediately before release of force: 1 mEq/kg IV, IO, max 50 mEq\n▫ Redose as needed for hyperkalemia: 1 mEq/kg IV, IO, max 50 mEq\nPediatric:\n▫ During every 1 hour entrapped: 1 mEq/kg IV, IO, max 50 mEq\n▫ Immediately before release of force: 1 mEq/kg IV, IO, max 50 mEq\n▫ Redose as needed for hyperkalemia: 1 mEq/kg IV, IO, max 50 mEq\nHyperkalemia\nAdult:\n▫ 1 mEq/kg IV, IO, max 50 mEq\nPediatric:\n▫ 1 mEq/kg IV, IO, max 50 mEq\nTricyclic Antidepressant Overdose\nAdult:\n▫ 1 mEq/kg IV, IO, max 50 mEq\n▫ Repeat every 10 minutes as needed for QRS > 120ms\nPediatric:\n▫ 1 mEq/kg IV, IO, max 50 mEq\n▫ Repeat every 10 minutes as needed for QRS > 120ms\nMetabolic Acidosis - Other Causes\nAdult:\n▫ Contact MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.\n\nPediatric\n▫ Contact MEDICAL CONTROL\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.",
+    "specialNotes": [
+      "This agent is not indicated for routine cardiac arrest as per AHA ACLS algorithms.",
+      "Each amp of Sodium Bicarbonate contains 44 or 50 mEq of Na++. In persons with cardiac disease, this will",
+      "increase intravascular volume and further stress the heart.",
+      "Hyperosmolarity of the blood can occur because the NaHCO3 is concentrated. This results in cerebral",
+      "impairment.",
+      "Administration of Sodium Bicarbonate can result in inaccurate EndTidal readings."
+    ],
+    "doseCards": [
+      {
+        "id": "10-44-d1",
+        "prompt": "Sodium Bicarbonate — Adult",
+        "answer": "During every 1 hour entrapped: 1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d2",
+        "prompt": "Sodium Bicarbonate — Adult",
+        "answer": "Immediately before release of force: 1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d3",
+        "prompt": "Sodium Bicarbonate — Adult",
+        "answer": "Redose as needed for hyperkalemia: 1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d4",
+        "prompt": "Sodium Bicarbonate — Pediatric",
+        "answer": "During every 1 hour entrapped: 1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d5",
+        "prompt": "Sodium Bicarbonate — Pediatric",
+        "answer": "Immediately before release of force: 1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d6",
+        "prompt": "Sodium Bicarbonate — Pediatric",
+        "answer": "Redose as needed for hyperkalemia: 1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d7",
+        "prompt": "Sodium Bicarbonate — Adult",
+        "answer": "1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d8",
+        "prompt": "Sodium Bicarbonate — Pediatric",
+        "answer": "1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d9",
+        "prompt": "Sodium Bicarbonate — Adult",
+        "answer": "1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      },
+      {
+        "id": "10-44-d10",
+        "prompt": "Sodium Bicarbonate — Pediatric",
+        "answer": "1 mEq/kg IV, IO, max 50 mEq",
+        "sourcePage": 334
+      }
+    ],
+    "sourcePage": 334,
+    "educationDraft": true
+  },
+  {
+    "id": "10-45",
+    "protocolNumber": "10.45",
+    "name": "Succinylcholine (Anectine®)",
+    "revised": "",
+    "drugClass": [
+      "Neuromuscular blocker (depolarizing)"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "To facilitate intubation",
+      "Terminating laryngospasm",
+      "Muscle relaxation"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Skeletal muscle myopathies",
+      "Rhabdomyolysis",
+      "History of malignant hyperthermia",
+      "Major burns or crush injury greater than 24 hours old",
+      "Prior spinal cord injury or stroke",
+      "Hyperkalemia, known or suspected (missed dialysis)"
+    ],
+    "administrationText": "Intubation\nAdult:\n▫ Standard: 1.5-2 mg/kg IV, IO\n▫ Shock/hypotension: 2mg/kg IV, IO\n▪ Pediatric:\n▫ Standard: 1.5-2 mg/kg IV, IO\n▫ Shock/hypotension: 2mg/kg IV, IO",
+    "specialNotes": [
+      "May exacerbate hyperkalemic states.",
+      "Be sure to use some form of sedation."
+    ],
+    "doseCards": [
+      {
+        "id": "10-45-d1",
+        "prompt": "Succinylcholine (Anectine®) — Adult",
+        "answer": "Standard: 1.5-2 mg/kg IV, IO",
+        "sourcePage": 336
+      },
+      {
+        "id": "10-45-d2",
+        "prompt": "Succinylcholine (Anectine®) — Adult",
+        "answer": "Shock/hypotension: 2mg/kg IV, IO",
+        "sourcePage": 336
+      },
+      {
+        "id": "10-45-d3",
+        "prompt": "Succinylcholine (Anectine®) — Pediatric",
+        "answer": "Standard: 1.5-2 mg/kg IV, IO",
+        "sourcePage": 336
+      },
+      {
+        "id": "10-45-d4",
+        "prompt": "Succinylcholine (Anectine®) — Pediatric",
+        "answer": "Shock/hypotension: 2mg/kg IV, IO",
+        "sourcePage": 336
+      }
+    ],
+    "sourcePage": 336,
+    "educationDraft": true
+  },
+  {
+    "id": "10-46",
+    "protocolNumber": "10.46",
+    "name": "Tranexamic Acid (TXA)",
+    "revised": "",
+    "drugClass": [
+      "Fibrinolysis inhibitor"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Trauma - ALL THREE CRITERIA MUST BE MET:",
+      "Traumatic injury within 3 hours,",
+      "Hemorrhagic Shock due to trauma,",
+      "Systolic BP 90mmHg or Shock Index 1 ≥",
+      "Post-Surgical Bleeding",
+      "Onset within 3 hours",
+      "Systolic BP 90mmHg or Shock Index 1 ≥",
+      "Post-Partum Hemorrhage",
+      "Birth occurred less than 3 hours ago",
+      "Hereditary Angioedema",
+      "Non-histamine induced angioedema, i.e. not likely drug/allergen-induced"
+    ],
+    "contraindications": [
+      "Traumatic injury greater than 3 hours old",
+      "Birth greater than 3 hours old",
+      "Bleeding onset > 3 hours",
+      "Allergic reaction or histamine-related angioedema"
+    ],
+    "administrationText": "Trauma\nAdult (≥16)\n▫ 2 grams slow IV, IO push over one minute\nPediatric (≤15)\n▫ 15mg/kg\n• Pediatric dose maxes at adult dose\nPost-Partum Hemorrhage and Hereditary Angioedema:\nAdult (≥ 16)\n▫ 1 gram slow IV, IO push over 10 minutes\nPediatric (≤ 15)\n▫ 15mg/kg slow IV, IO, push over 10 minutes\n• Pediatric dose maxes at adult dose\nPost-Surgical Bleeding\nAdult (≥ 16)\n▫ 2 grams slow IV, IO push over 10 minutes\nPediatric (≤ 15)\n▫ 15mg/kg slow IV, IO push over 10 minutes\n• Pediatric dose maxes at adult dose",
+    "specialNotes": [
+      "TXA should not delay volume resuscitation for appropriate trauma patients.",
+      "TXA should not delay patient transports to appropriate trauma center.",
+      "Receiving facility must be made aware that TXA was initiated in the field.",
+      "Use caution if known history of thrombotic disorder (DVT or pulmonary embolus)"
+    ],
+    "doseCards": [
+      {
+        "id": "10-46-d1",
+        "prompt": "Tranexamic Acid (TXA) — Pediatric (≤15)",
+        "answer": "15mg/kg",
+        "sourcePage": 337
+      },
+      {
+        "id": "10-46-d2",
+        "prompt": "Tranexamic Acid (TXA) — Pediatric (≤ 15)",
+        "answer": "15mg/kg slow IV, IO, push over 10 minutes",
+        "sourcePage": 337
+      },
+      {
+        "id": "10-46-d3",
+        "prompt": "Tranexamic Acid (TXA) — Pediatric (≤ 15)",
+        "answer": "15mg/kg slow IV, IO push over 10 minutes",
+        "sourcePage": 337
+      }
+    ],
+    "sourcePage": 337,
+    "educationDraft": true
+  },
+  {
+    "id": "10-47",
+    "protocolNumber": "10.47",
+    "name": "Whole Blood & Blood Products",
+    "revised": "",
+    "drugClass": [
+      "Blood and blood components"
+    ],
+    "routes": [
+      "IV, IO"
+    ],
+    "indications": [
+      "Hemorrhagic shock due to:",
+      "Acute trauma",
+      "EMS Witnessed traumatic circulatory arrest within 10 minutes of PRMCE.",
+      "Post-partum hemorrhage/vaginal bleeding",
+      "Contact Medical Control for other hemorrhagic conditions that meet vitals criteria:",
+      "Systolic BP <70mmHg regardless of heart rate",
+      "Systolic BP <90 and HR greater than 110.",
+      "Contact",
+      "Online Medical Control",
+      "Phones: Online Medical Control: 425-404-5099",
+      "Note: Providence Everett - Colby Campus shall be contacted for all online medical",
+      "control requests, regardless of final destination."
+    ],
+    "contraindications": [
+      "Known personal or religious objection to blood products",
+      "Unwitnessed cardiac arrest"
+    ],
+    "administrationText": "All Indications\nAdult: ≥ 35kg\n▫ 1 unit IV, IO\n▫ May repeat as needed based on vital signs\n▪ Pediatric ≤ 34kg\n▫ Contact Medical Control\nContact\nOnline Medical Control\nPhones: Online Medical Control: 425-404-5099\nNote: Providence Everett - Colby Campus shall be contacted for all online medical\ncontrol requests, regardless of final destination.",
+    "specialNotes": [],
+    "doseCards": [
+      {
+        "id": "10-47-d1",
+        "prompt": "Whole Blood & Blood Products — Adult: ≥ 35kg",
+        "answer": "1 unit IV, IO",
+        "sourcePage": 339
+      }
+    ],
+    "sourcePage": 339,
+    "educationDraft": true
+  }
+]
